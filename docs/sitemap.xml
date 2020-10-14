@@ -1571,6 +1571,10 @@
   </url>
   
   <url>
+    <loc>sajayantony.github.io/iot__opc-twin-service/</loc>
+  </url>
+  
+  <url>
     <loc>sajayantony.github.io/iot__opc-twin-webui/</loc>
   </url>
   
@@ -1588,10 +1592,6 @@
   
   <url>
     <loc>sajayantony.github.io/iotedge__diagnostic/</loc>
-  </url>
-  
-  <url>
-    <loc>sajayantony.github.io/iotedge__discovery/</loc>
   </url>
   
   <url>
