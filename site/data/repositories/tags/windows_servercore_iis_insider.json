@@ -1,7 +1,0 @@
-{
-  "name": "windows/servercore/iis/insider",
-  "tags": [
-    "demo",
-    "windowsservercore-10.0.19035.1"
-  ]
-}

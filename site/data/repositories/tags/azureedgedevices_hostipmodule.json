@@ -1,7 +1,0 @@
-{
-  "name": "azureedgedevices/hostipmodule",
-  "tags": [
-    "latest-arm32v7",
-    "latest-arm64v8"
-  ]
-}

@@ -1,4 +1,0 @@
----
-title: azuredocs/multicontainerwordpress
----
-- latest

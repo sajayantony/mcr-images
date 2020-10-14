@@ -1,6 +1,0 @@
----
-title: k8s/core/azure-cloud-controller-manager
----
-- v0.1.0
-- v0.2.0
-- v0.3.0

@@ -1,4 +1,0 @@
----
-title: azuredocs/go
----
-- latest

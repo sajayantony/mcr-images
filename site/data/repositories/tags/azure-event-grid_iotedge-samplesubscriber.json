@@ -1,9 +1,0 @@
-{
-  "name": "azure-event-grid/iotedge-samplesubscriber",
-  "tags": [
-    "latest",
-    "latest-alpine-amd64",
-    "latest-bionic-arm32v7",
-    "latest-nanoserver-amd64"
-  ]
-}

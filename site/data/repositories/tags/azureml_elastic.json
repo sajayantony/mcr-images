@@ -1,6 +1,0 @@
-{
-  "name": "azureml/elastic",
-  "tags": [
-    "pytorch-elastic-openmpi3.1.2-cuda10.1-cudnn7-ubuntu18.04"
-  ]
-}

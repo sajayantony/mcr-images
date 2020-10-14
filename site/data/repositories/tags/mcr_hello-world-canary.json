@@ -1,6 +1,0 @@
-{
-  "name": "mcr/hello-world-canary",
-  "tags": [
-    "Canary-IngestionTest"
-  ]
-}

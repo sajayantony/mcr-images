@@ -1,7 +1,0 @@
-{
-  "name": "oss/bitnami/redis",
-  "tags": [
-    "6.0.8",
-    "6.0.8-linux-amd64"
-  ]
-}
