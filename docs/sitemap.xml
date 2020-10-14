@@ -1319,6 +1319,10 @@
   </url>
   
   <url>
+    <loc>sajayantony.github.io/dotnet-buildtools__prereqs/</loc>
+  </url>
+  
+  <url>
     <loc>sajayantony.github.io/dotnet__aspnet/</loc>
   </url>
   
@@ -1592,6 +1596,10 @@
   
   <url>
     <loc>sajayantony.github.io/iotedge__diagnostic/</loc>
+  </url>
+  
+  <url>
+    <loc>sajayantony.github.io/iotedge__discovery/</loc>
   </url>
   
   <url>
