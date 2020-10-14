@@ -1,0 +1,32 @@
+{
+  "name": "onnx-aml/onnx-package",
+  "tags": [
+    "20191121.7444784",
+    "20191121.7444784_eastus",
+    "20191121.7444784_eastus2",
+    "australiaeast",
+    "brazilsouth",
+    "canadacentral",
+    "centralindia",
+    "centralus",
+    "centraluseuap",
+    "eastasia",
+    "eastus",
+    "eastus2",
+    "eastus2euap",
+    "francecentral",
+    "japaneast",
+    "koreacentral",
+    "latest",
+    "northcentralus",
+    "northeurope",
+    "southcentralus",
+    "southeastasia",
+    "uksouth",
+    "westcentralus",
+    "westcontralus",
+    "westeurope",
+    "westus",
+    "westus2"
+  ]
+}

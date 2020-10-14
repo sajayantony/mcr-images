@@ -1,0 +1,10 @@
+{
+  "name": "containernetworking/swift-runner",
+  "tags": [
+    "latest",
+    "lbtest",
+    "mnatrunnertest",
+    "mnattest",
+    "test"
+  ]
+}

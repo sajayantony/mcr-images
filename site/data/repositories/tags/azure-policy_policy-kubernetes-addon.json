@@ -1,0 +1,13 @@
+{
+  "name": "azure-policy/policy-kubernetes-addon",
+  "tags": [
+    "0.1",
+    "0.4",
+    "master_20190422.1",
+    "master_20190622.1",
+    "master_20190731.1",
+    "master_20200110.1",
+    "master_20200121.1",
+    "master_20200212.1"
+  ]
+}

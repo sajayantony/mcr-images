@@ -1,0 +1,6 @@
+{
+  "name": "aks/hcp/prom/statsd-exporter",
+  "tags": [
+    "v0.8.1"
+  ]
+}

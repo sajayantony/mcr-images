@@ -1,0 +1,7 @@
+{
+  "name": "oss/memcached/memcached",
+  "tags": [
+    "1.6.6",
+    "1.6.6-linux-amd64"
+  ]
+}

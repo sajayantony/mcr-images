@@ -1,0 +1,7 @@
+{
+  "name": "azurearck8s/batch1/stable/flux-logs-agent",
+  "tags": [
+    "0.2.13",
+    "0.2.18"
+  ]
+}

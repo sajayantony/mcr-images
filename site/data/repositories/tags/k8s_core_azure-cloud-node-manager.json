@@ -1,0 +1,6 @@
+{
+  "name": "k8s/core/azure-cloud-node-manager",
+  "tags": [
+    "v0.3.0"
+  ]
+}

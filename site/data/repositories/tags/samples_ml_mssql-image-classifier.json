@@ -1,0 +1,6 @@
+{
+  "name": "samples/ml/mssql-image-classifier",
+  "tags": [
+    "latest"
+  ]
+}

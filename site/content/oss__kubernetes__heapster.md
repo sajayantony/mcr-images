@@ -1,0 +1,25 @@
+---
+title: oss/kubernetes/heapster
+---
+- v1.3.0
+- v1.3.0-linux-amd64
+- v1.4.0
+- v1.4.0-linux-amd64
+- v1.4.1
+- v1.4.1-linux-amd64
+- v1.4.2
+- v1.4.2-linux-amd64
+- v1.4.3
+- v1.4.3-linux-amd64
+- v1.5.0
+- v1.5.0-linux-amd64
+- v1.5.1
+- v1.5.1-linux-amd64
+- v1.5.2
+- v1.5.2-linux-amd64
+- v1.5.3
+- v1.5.3-linux-amd64
+- v1.5.4
+- v1.5.4-linux-amd64
+- v1.7.0
+- v1.7.0-linux-amd64

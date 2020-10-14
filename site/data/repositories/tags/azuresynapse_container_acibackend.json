@@ -1,0 +1,7 @@
+{
+  "name": "azuresynapse/container/acibackend",
+  "tags": [
+    "latest",
+    "test"
+  ]
+}

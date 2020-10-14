@@ -1,0 +1,10 @@
+{
+  "name": "onnx-aml/onnx-optimization-gpu",
+  "tags": [
+    "ort-1.2.0",
+    "ort-1.3.0",
+    "ort-1.4.0",
+    "ort-1.5.0",
+    "ort-1.5.1"
+  ]
+}

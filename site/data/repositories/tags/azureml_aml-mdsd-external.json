@@ -1,0 +1,15 @@
+{
+  "name": "azureml/aml-mdsd-external",
+  "tags": [
+    "realtime-fe",
+    "realtime-fe-20190910.1",
+    "realtime-fe-20191202.1",
+    "realtime-fe-20191202.2",
+    "realtime-fe-20191212.1",
+    "realtime-fe-20200108.1",
+    "realtime-fe-20200109.1",
+    "realtime-fe-20200130.2",
+    "realtime-fe-20200204.1",
+    "realtime-fe-20200207.1"
+  ]
+}

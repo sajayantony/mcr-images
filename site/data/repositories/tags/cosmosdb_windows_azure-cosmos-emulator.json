@@ -1,0 +1,7 @@
+{
+  "name": "cosmosdb/windows/azure-cosmos-emulator",
+  "tags": [
+    "2.2.2-b6fb057f",
+    "latest"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "azure-policy/policy-kubernetes-addon-prod",
+  "tags": [
+    "hotfix-test",
+    "prod_20191010.1",
+    "prod_20191011.1",
+    "prod_20200219.2",
+    "prod_20200224.1",
+    "prod_20200227.1",
+    "prod_20200325.1",
+    "prod_20200505.1",
+    "prod_20200519.1",
+    "prod_20200804.1",
+    "prod_20200901.1",
+    "prod_20200923.1",
+    "prod_20201012.1"
+  ]
+}

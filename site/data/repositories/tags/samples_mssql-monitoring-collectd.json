@@ -1,0 +1,7 @@
+{
+  "name": "samples/mssql-monitoring-collectd",
+  "tags": [
+    "latest",
+    "v1"
+  ]
+}

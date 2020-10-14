@@ -1,0 +1,15 @@
+{
+  "name": "azureml/cmk8s/oss-component",
+  "tags": [
+    "application-1.0-beta",
+    "bash-4",
+    "everpeace-k8s-host-device-plugin-latest",
+    "mpioperator-mpi-operator-latest",
+    "prom-node-exporter-v0.16.0",
+    "prom-prometheus-v2.16.0",
+    "tf_operator-v1.0.0-g92389064",
+    "volcanosh-vc-controller-manager-v0.3",
+    "volcanosh-vc-scheduler-v0.3",
+    "volcanosh-vc-webhook-manager-v0.3"
+  ]
+}

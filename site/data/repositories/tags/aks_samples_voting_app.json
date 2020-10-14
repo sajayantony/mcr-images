@@ -1,0 +1,7 @@
+{
+  "name": "aks/samples/voting/app",
+  "tags": [
+    "1.0",
+    "2.0"
+  ]
+}

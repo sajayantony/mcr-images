@@ -1,0 +1,7 @@
+{
+  "name": "oss/azure/aad-pod-identity/demo",
+  "tags": [
+    "v1.6.3",
+    "v1.6.3-linux-amd64"
+  ]
+}

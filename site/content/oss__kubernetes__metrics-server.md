@@ -1,0 +1,29 @@
+---
+title: oss/kubernetes/metrics-server
+---
+- v0.1.0
+- v0.1.0-linux-amd64
+- v0.2.0
+- v0.2.0-linux-amd64
+- v0.2.1
+- v0.2.1-linux-amd64
+- v0.2.1_v0.0.5
+- v0.2.1_v0.0.5-linux-amd64
+- v0.3.0
+- v0.3.0-linux-amd64
+- v0.3.1
+- v0.3.1-linux-amd64
+- v0.3.2
+- v0.3.2-linux-amd64
+- v0.3.3
+- v0.3.3-linux-amd64
+- v0.3.4
+- v0.3.4-linux-amd64
+- v0.3.5
+- v0.3.5-linux-amd64
+- v0.3.5_v0.0.5
+- v0.3.5_v0.0.5-linux-amd64
+- v0.3.6
+- v0.3.6-linux-amd64
+- v0.3.7
+- v0.3.7-linux-amd64

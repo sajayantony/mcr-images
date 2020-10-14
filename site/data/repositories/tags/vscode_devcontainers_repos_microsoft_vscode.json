@@ -1,0 +1,15 @@
+{
+  "name": "vscode/devcontainers/repos/microsoft/vscode",
+  "tags": [
+    "0",
+    "0.143",
+    "0.143.0",
+    "0.144",
+    "0.144.0",
+    "0.145",
+    "0.145.0",
+    "dev",
+    "latest",
+    "master"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "acr/acr-cli",
+  "tags": [
+    "0.1",
+    "0.2",
+    "linux-0.2",
+    "linux-232889b",
+    "linux-7ccdc3e",
+    "linux-804ba54",
+    "linux-e38f3ec",
+    "linux-e45d021",
+    "linux-e85b434",
+    "windowsservercore-1903-7d71132"
+  ]
+}

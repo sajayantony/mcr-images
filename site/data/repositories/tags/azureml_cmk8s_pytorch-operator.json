@@ -1,0 +1,6 @@
+{
+  "name": "azureml/cmk8s/pytorch-operator",
+  "tags": [
+    "master"
+  ]
+}

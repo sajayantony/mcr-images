@@ -1,0 +1,6 @@
+{
+  "name": "devops/azure-pipelines/task-logger-python",
+  "tags": [
+    "v0.preview"
+  ]
+}

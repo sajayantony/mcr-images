@@ -1,0 +1,15 @@
+---
+title: azure-storage/azurite
+---
+- 3.1.0-preview
+- 3.1.1-preview
+- 3.1.2-preview
+- 3.2.0-preview
+- 3.3.0-preview
+- 3.4.0
+- 3.5.0
+- 3.6.0
+- 3.7.0
+- 3.8.0
+- 3.9.0
+- latest

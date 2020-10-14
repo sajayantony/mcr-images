@@ -1,0 +1,9 @@
+{
+  "name": "azure-policy/alpine-curl",
+  "tags": [
+    "prod_20200228.1",
+    "prod_20200228.2",
+    "prod_20200302.1",
+    "prod_20200409.1"
+  ]
+}

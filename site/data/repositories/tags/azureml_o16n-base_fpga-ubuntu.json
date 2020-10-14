@@ -1,0 +1,6 @@
+{
+  "name": "azureml/o16n-base/fpga-ubuntu",
+  "tags": [
+    "16.04"
+  ]
+}

@@ -1,0 +1,13 @@
+---
+title: azurestack/powershell
+---
+- 0.1.0-centos-7
+- 0.1.0-debian-9
+- 0.1.0-ubuntu-18.04
+- 0.2002.0-centos-7
+- 0.2002.0-debian-9
+- 0.2002.0-ubuntu-18.04
+- centos-7
+- debian-9
+- latest
+- ubuntu-18.04

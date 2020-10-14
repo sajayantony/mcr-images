@@ -1,0 +1,6 @@
+baseURL = "sajayantony.github.io/"
+languageCode = "en-us"
+title = "Microsoft Container Registry"
+theme = "simple"
+relativeURLs = true
+

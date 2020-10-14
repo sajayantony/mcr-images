@@ -1,0 +1,7 @@
+{
+  "name": "oss/intel/intel-vpu-plugin",
+  "tags": [
+    "0.18.0",
+    "0.18.0-linux-amd64"
+  ]
+}

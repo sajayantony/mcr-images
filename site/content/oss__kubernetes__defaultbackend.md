@@ -1,0 +1,13 @@
+---
+title: oss/kubernetes/defaultbackend
+---
+- 1.0
+- 1.0-linux-amd64
+- 1.1
+- 1.1-linux-amd64
+- 1.2
+- 1.2-linux-amd64
+- 1.3
+- 1.3-linux-amd64
+- 1.4
+- 1.4-linux-amd64

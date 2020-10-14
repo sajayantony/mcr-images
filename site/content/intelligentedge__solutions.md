@@ -1,0 +1,4 @@
+---
+title: intelligentedge/solutions
+---
+- latest

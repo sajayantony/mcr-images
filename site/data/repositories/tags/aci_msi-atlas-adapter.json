@@ -1,0 +1,21 @@
+{
+  "name": "aci/msi-atlas-adapter",
+  "tags": [
+    "master_20191208.1",
+    "master_20191209.1",
+    "master_20200104.1",
+    "master_20200106.1",
+    "master_20200106.2",
+    "master_20200212.1",
+    "master_20200414.3",
+    "master_20200414.4",
+    "master_20200415.1",
+    "master_20200625.1",
+    "master_20200701.1",
+    "master_20200730.1",
+    "master_20200810.1",
+    "master_20200814.1",
+    "master_20201006.1",
+    "master_20201007.2"
+  ]
+}

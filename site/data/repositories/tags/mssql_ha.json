@@ -1,0 +1,28 @@
+{
+  "name": "mssql/ha",
+  "tags": [
+    "2019-CTP2.0",
+    "2019-CTP2.1",
+    "2019-CTP2.1-ubuntu",
+    "2019-CTP2.2",
+    "2019-CTP2.2-ubuntu",
+    "2019-CTP2.3",
+    "2019-CTP2.3-ubuntu",
+    "2019-CTP2.4",
+    "2019-CTP2.4-ubuntu",
+    "2019-CTP2.5",
+    "2019-CTP2.5-ubuntu",
+    "2019-CTP3.0",
+    "2019-CTP3.0-ubuntu",
+    "2019-CTP3.1",
+    "2019-CTP3.1-ubuntu",
+    "2019-CTP3.2",
+    "2019-CTP3.2-ubuntu",
+    "2019-CU4-ubuntu-16.04",
+    "2019-CU4-ubuntu-18.04",
+    "2019-RC1",
+    "2019-RC1-ubuntu",
+    "2019-latest",
+    "vNext-CTP2.0-ubuntu"
+  ]
+}

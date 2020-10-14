@@ -1,0 +1,30 @@
+---
+title: azureml/o16n-base/spark
+---
+- latest
+- latest.airgapped
+- latest.australiaeast
+- latest.brazilsouth
+- latest.canadacentral
+- latest.centralindia
+- latest.centralus
+- latest.centraluseuap
+- latest.chinaeast2
+- latest.eastasia
+- latest.eastus
+- latest.eastus2
+- latest.eastus2euap
+- latest.francecentral
+- latest.japaneast
+- latest.koreacentral
+- latest.northcentralus
+- latest.northeurope
+- latest.southcentralus
+- latest.southeastasia
+- latest.uksouth
+- latest.usgovarizona
+- latest.usgovvirginia
+- latest.westcentralus
+- latest.westeurope
+- latest.westus
+- latest.westus2

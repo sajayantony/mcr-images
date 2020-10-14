@@ -1,0 +1,19 @@
+---
+title: k8s/csi/smb-csi
+---
+- latest
+- v0.1.0
+- v0.1.0-linux-amd64
+- v0.1.0-windows-1809-amd64
+- v0.2.0
+- v0.2.0-linux-amd64
+- v0.2.0-windows-1809-amd64
+- v0.3.0
+- v0.3.0-linux-amd64
+- v0.3.0-windows-1809-amd64
+- v0.4.0
+- v0.4.0-linux-amd64
+- v0.4.0-windows-1809-amd64
+- v0.5.0
+- v0.5.0-linux-amd64
+- v0.5.0-windows-1809-amd64

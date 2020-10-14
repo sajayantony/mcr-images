@@ -1,0 +1,6 @@
+{
+  "name": "azurearck8s/batch1/preview/clusterconnect-agent",
+  "tags": [
+    "0.2.18-preview"
+  ]
+}

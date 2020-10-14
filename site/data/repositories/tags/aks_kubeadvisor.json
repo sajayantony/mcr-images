@@ -1,0 +1,6 @@
+{
+  "name": "aks/kubeadvisor",
+  "tags": [
+    "latest"
+  ]
+}

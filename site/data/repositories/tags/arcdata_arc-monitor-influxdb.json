@@ -1,0 +1,7 @@
+{
+  "name": "arcdata/arc-monitor-influxdb",
+  "tags": [
+    "latest",
+    "public-preview-sep-2020"
+  ]
+}

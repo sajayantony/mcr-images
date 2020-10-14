@@ -1,0 +1,4 @@
+---
+title: webfactoryai/solutions
+---
+- latest

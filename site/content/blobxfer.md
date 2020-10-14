@@ -1,0 +1,19 @@
+---
+title: blobxfer
+---
+- 1.8.0
+- 1.8.0-windows
+- 1.9.0
+- 1.9.0-windows
+- 1.9.1
+- 1.9.1-windows
+- 1.9.2
+- 1.9.2-windows
+- 1.9.3
+- 1.9.3-windows
+- 1.9.4
+- 1.9.4-windows
+- develop
+- develop-windows
+- latest
+- latest-windows

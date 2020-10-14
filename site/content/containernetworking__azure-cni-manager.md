@@ -1,0 +1,21 @@
+---
+title: containernetworking/azure-cni-manager
+---
+- v1.1.8-3-g3a943e8-dirty
+- v1.1.8-3-g3a943e8-dirty-1
+- v1.1.8-4-g4d14734-dirty-2
+- v1.1.8-4-g4d14734-dirty-3
+- v1.1.8-6-ga574a6b-dirty
+- v1.1.8-6-ga574a6b-dirty-1
+- v1.1.8-6-ga574a6b-dirty-2
+- v1.1.8-6-ga574a6b-dirty-3
+- v1.1.8-6-ga574a6b-dirty-4
+- v1.1.8-6-ga574a6b-dirty-5
+- v1.1.8-6-ga574a6b-dirty-6
+- v1.1.8-6-ga574a6b-dirty-8
+- v1.1.8-8-gc0ce71a-dirty-10
+- v1.1.8-8-gc0ce71a-dirty-11
+- v1.1.8-8-gc0ce71a-dirty-12
+- v1.1.8-8-gc0ce71a-dirty-9
+- v1.1.8-9-g90e0e19-dirty-15
+- v1.1.8-9-g90e0e19-dirty-16

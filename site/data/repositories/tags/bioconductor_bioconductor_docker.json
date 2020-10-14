@@ -1,0 +1,9 @@
+{
+  "name": "bioconductor/bioconductor_docker",
+  "tags": [
+    "RELEASE_3_10",
+    "RELEASE_3_11",
+    "devel",
+    "latest"
+  ]
+}

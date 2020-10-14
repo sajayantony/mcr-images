@@ -1,0 +1,7 @@
+{
+  "name": "azureml/aml-triton",
+  "tags": [
+    "20200918.v1",
+    "latest"
+  ]
+}

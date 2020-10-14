@@ -1,0 +1,7 @@
+{
+  "name": "azure-app-service/windows/canary",
+  "tags": [
+    "1.0-nanoserver-sac2016",
+    "2.0-nanoserver-1809"
+  ]
+}

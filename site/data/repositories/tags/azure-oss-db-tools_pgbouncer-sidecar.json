@@ -1,0 +1,7 @@
+{
+  "name": "azure-oss-db-tools/pgbouncer-sidecar",
+  "tags": [
+    "latest",
+    "pgbouncerv1.13"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "azuresynapse/synapse-prometheus-connector",
+  "tags": [
+    "0.0.20",
+    "0.0.22"
+  ]
+}

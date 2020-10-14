@@ -1,0 +1,22 @@
+{
+  "name": "azure-cognitive-services/speechservices/neural-text-to-speech",
+  "tags": [
+    "1.2.0-amd64-de-de-katjaneural-preview",
+    "1.2.0-amd64-en-au-natashaneural-preview",
+    "1.2.0-amd64-en-ca-claraneural-preview",
+    "1.2.0-amd64-en-gb-libbyneural-preview",
+    "1.2.0-amd64-en-gb-mianeural-preview",
+    "1.2.0-amd64-en-us-arianeural-preview",
+    "1.2.0-amd64-en-us-guyneural-preview",
+    "1.2.0-amd64-es-es-elviraneural-preview",
+    "1.2.0-amd64-es-mx-dalianeural-preview",
+    "1.2.0-amd64-fr-ca-sylvieneural-preview",
+    "1.2.0-amd64-fr-fr-deniseneural-preview",
+    "1.2.0-amd64-it-it-elsaneural-preview",
+    "1.2.0-amd64-ja-jp-nanamineural-preview",
+    "1.2.0-amd64-ko-kr-sunhineural-preview",
+    "1.2.0-amd64-pt-br-franciscaneural-preview",
+    "1.2.0-amd64-zh-cn-xiaoxiaoneural-preview",
+    "latest"
+  ]
+}

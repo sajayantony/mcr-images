@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="jumbotron">
+  <div class="container">
+    <h1 class="display-4">Microsoft Container Registry</h1>
+    <p class="lead">Repositories Catalog</p>    
+  </div>
+</div>
+
+<div class="container">
+    <h1 class="text-center">
+       Repositories 
+    </h1>
+    {{ range .Pages }}
+      <div class="row" >
+        <div class="col">
+          <a class="text-body" href="{{ .URL | relURL }}">{{ if .Draft }}DRAFT: {{end}}{{ .Title | markdownify }}</a>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+
+
+    {{ range $.Site.Data.repositories }}
+        {{ partial "repositories.html" . }}
+    {{ end }}
+
+{{ end }}
+
