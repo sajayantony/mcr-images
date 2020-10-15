@@ -1,5 +1,7 @@
 #!/bin/sh 
 
+ls /ssh-key/deploy-secret-mount -l
+
 ## Fetch repositories and tags
 cd $(git rev-parse --show-toplevel)
 #python3 ./get-tags.py

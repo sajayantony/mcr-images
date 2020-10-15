@@ -14,3 +14,6 @@ steps:
       - name: deploy-secret-mount
         mountPath: /ssh-key/deploy-secret-mount
   - cmd: $Registry/hugo-deploy:v1
+    volumeMounts:
+      - name: deploy-secret-mount
+        mountPath: /ssh-key/deploy-secret-mount
