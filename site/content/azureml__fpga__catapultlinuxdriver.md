@@ -1,0 +1,15 @@
+---
+title: azureml/fpga/catapultlinuxdriver
+---
+- latest
+- latest.australiaeast
+- latest.centraluseuap
+- latest.eastus
+- latest.eastus2
+- latest.eastus2euap
+- latest.northeurope
+- latest.southcentralus
+- latest.southeastasia
+- latest.westcentralus
+- latest.westeurope
+- latest.westus2

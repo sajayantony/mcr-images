@@ -1,0 +1,27 @@
+---
+title: onnx-aml/onnx-perftuning-gpu
+---
+- australiaeast
+- brazilsouth
+- canadacentral
+- centralindia
+- centralus
+- centraluseuap
+- eastasia
+- eastus
+- eastus2
+- eastus2euap
+- francecentral
+- japaneast
+- koreacentral
+- latest
+- northcentralus
+- northeurope
+- southcentralus
+- southeastasia
+- uksouth
+- westcentralus
+- westcontralus
+- westeurope
+- westus
+- westus2

@@ -1,0 +1,34 @@
+---
+title: dotnet/core/samples
+---
+- aspnetapp
+- aspnetapp-buster-slim
+- aspnetapp-buster-slim-arm32v7
+- aspnetapp-buster-slim-arm64v8
+- aspnetapp-nanoserver-1709
+- aspnetapp-nanoserver-1803
+- aspnetapp-nanoserver-1809
+- aspnetapp-nanoserver-1809-arm32
+- aspnetapp-nanoserver-1809-arm32v7
+- aspnetapp-nanoserver-1903
+- aspnetapp-nanoserver-1909
+- aspnetapp-nanoserver-2004
+- aspnetapp-nanoserver-sac2016
+- aspnetapp-stretch
+- aspnetapp-stretch-arm32v7
+- dotnetapp
+- dotnetapp-buster-slim
+- dotnetapp-buster-slim-arm32v7
+- dotnetapp-buster-slim-arm64v8
+- dotnetapp-nanoserver-1709
+- dotnetapp-nanoserver-1803
+- dotnetapp-nanoserver-1809
+- dotnetapp-nanoserver-1809-arm32
+- dotnetapp-nanoserver-1809-arm32v7
+- dotnetapp-nanoserver-1903
+- dotnetapp-nanoserver-1909
+- dotnetapp-nanoserver-2004
+- dotnetapp-nanoserver-sac2016
+- dotnetapp-stretch
+- dotnetapp-stretch-arm32v7
+- latest

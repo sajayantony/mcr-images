@@ -1,0 +1,18 @@
+---
+title: oss/kubernetes/azure-cloud-node-manager
+---
+- v0.3.0
+- v0.3.0-linux-amd64
+- v0.4.0
+- v0.4.0-linux-amd64
+- v0.4.1
+- v0.4.1-linux-amd64
+- v0.5.0
+- v0.5.0-linux-amd64
+- v0.5.0-windows-1809-amd64
+- v0.5.1
+- v0.5.1-linux-amd64
+- v0.5.1-windows-1809-amd64
+- v0.6.0
+- v0.6.0-linux-amd64
+- v0.6.0-windows-1809-amd64

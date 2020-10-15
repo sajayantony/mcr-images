@@ -1,0 +1,24 @@
+---
+title: onnx-aml/onnx-runtime-server
+---
+- latest
+- latest-cpu
+- latest-dnnl
+- latest-ngraph
+- v1.1.0
+- v1.1.0-cpu
+- v1.1.0-dnnl
+- v1.1.0-ngraph
+- v1.2.0
+- v1.2.0-cpu
+- v1.2.0-dnnl
+- v1.2.0-ngraph
+- v1.3.0
+- v1.3.0-cpu
+- v1.3.0-dnnl
+- v1.3.0-ngraph
+- v1.4.0
+- v1.4.0-cpu
+- v1.4.0-dnnl
+- v1.4.0-ngraph
+- v1.4.0-openvino

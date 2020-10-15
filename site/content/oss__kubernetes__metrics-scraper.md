@@ -1,0 +1,13 @@
+---
+title: oss/kubernetes/metrics-scraper
+---
+- v1.0.1
+- v1.0.1-linux-amd64
+- v1.0.2
+- v1.0.2-linux-amd64
+- v1.0.3
+- v1.0.3-linux-amd64
+- v1.0.4
+- v1.0.4-linux-amd64
+- v1.0.5
+- v1.0.5-linux-amd64

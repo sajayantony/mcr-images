@@ -1,0 +1,12 @@
+---
+title: oss/azure/azure-monitor-for-sap-solutions
+---
+- 2.0
+- 2.1
+- 2.2
+- 2.3
+- 2.4
+- v1.0
+- v1.5
+- v1.6
+- v2.0-beta

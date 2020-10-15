@@ -1,0 +1,34 @@
+---
+title: azure-blob-storage
+---
+- 1.0
+- 1.0-linux-amd64
+- 1.0-linux-arm32v7
+- 1.0-nanoserver
+- 1.0-windows-amd64
+- 1.0.1-linux-amd64
+- 1.0.1-nanoserver
+- 1.0.2-linux-amd64
+- 1.1
+- 1.1-linux-amd64
+- 1.1-linux-arm32v7
+- 1.2
+- 1.2-linux-amd64
+- 1.2-linux-arm32v7
+- 1.2-linux-arm64v8
+- 1.2-nanoserver-1809
+- 1.2.0-linux-amd64
+- 1.2.0-linux-arm32v7
+- 1.2.0-nanoserver-1809
+- 1.2.1-linux-amd64
+- 1.2.1-linux-arm32v7
+- 1.2.1-nanoserver-1809
+- 1.2.2-preview
+- 1.2.2-preview-linux-amd64
+- 1.2.2-preview-linux-arm32v7
+- 1.2.2-preview-nanoserver-1809
+- 1.3
+- 1.3-linux-amd64
+- 1.3-linux-arm32v7
+- 1.3-nanoserver-1809
+- latest

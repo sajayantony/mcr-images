@@ -1,0 +1,4 @@
+---
+title: aks/kubeadvisor
+---
+- latest

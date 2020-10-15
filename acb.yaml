@@ -1,0 +1,4 @@
+version: v1.1.0
+steps:
+  - cmd: bash ls -l   
+  - cmd: $Registry/hugo-deploy:v1
