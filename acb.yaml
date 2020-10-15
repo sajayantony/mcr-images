@@ -1,7 +1,7 @@
 version: v1.1.0
 secrets:
   - id: deploy-secret
-    keyvault: {{ .Value.deploykey }} # Replace with valid keyvault with access
+    keyvault: {{ .Values.deploykey }} # Replace with valid keyvault with access
 
 volumes:
   - name: deploy-secret-mount
