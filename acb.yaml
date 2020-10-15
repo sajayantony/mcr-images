@@ -6,7 +6,7 @@ secrets:
 volumes:
   - name: deploy-secret-mount
     secret:
-      mysecret1: {{.Secrets.deploy-secret | b64enc}}
+      mysecret1: {{ .Secrets.deploy-secret | b64enc}}
 
 steps:
   - cmd: bash  'ls /ssh-key -l'
