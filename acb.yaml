@@ -9,7 +9,7 @@ volumes:
       mysecret1: {{.Secrets.deploy-secret }}
 
 steps:
-  - cmd: bash  ls /ssh-key -l   
+  - cmd: bash  'ls /ssh-key -l'
     volumeMounts:
       - name: deploy-secret-mount
         mountPath: /ssh-key/deploy-secret-mount
