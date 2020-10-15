@@ -1,4 +1,16 @@
 version: v1.1.0
+secrets:
+  - id: deploy-secret
+    keyvault: {{ .Value.deploykey }} # Replace with valid keyvault with access
+
+volumes:
+  - name: deploy-secret-mount
+    secret:
+      mysecret1: {{.Secrets.deploy-secret }}
+
 steps:
-  - cmd: bash ls -l   
+  - cmd: bash /ssh-key ls -l   
+    volumeMounts:
+      - name: deploy-secret-mount
+        mountPath: /ssh-key/deploy-secret-mount
   - cmd: $Registry/hugo-deploy:v1
