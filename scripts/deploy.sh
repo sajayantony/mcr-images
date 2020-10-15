@@ -1,7 +1,9 @@
 #!/bin/sh 
 
+echo Checking secrets
 ls /ssh-key/deploy-secret-mount -l
 
+echo Building pages
 ## Fetch repositories and tags
 cd $(git rev-parse --show-toplevel)
 #python3 ./get-tags.py
