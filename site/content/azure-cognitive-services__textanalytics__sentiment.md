@@ -12,6 +12,8 @@ title: azure-cognitive-services/textanalytics/sentiment
 - 3.0-es-amd64
 - 3.0-fr
 - 3.0-fr-amd64
+- 3.0-hi
+- 3.0-hi-amd64
 - 3.0-it
 - 3.0-it-amd64
 - 3.0-ja
@@ -57,4 +59,18 @@ title: azure-cognitive-services/textanalytics/sentiment
 - 3.0.013560001-tr-amd64
 - 3.0.013560001-zh-amd64
 - 3.0.013560001-zht-amd64
+- 3.0.013850001-de-amd64
+- 3.0.013850001-en-amd64
+- 3.0.013850001-es-amd64
+- 3.0.013850001-fr-amd64
+- 3.0.013850001-hi-amd64
+- 3.0.013850001-it-amd64
+- 3.0.013850001-ja-amd64
+- 3.0.013850001-ko-amd64
+- 3.0.013850001-nl-amd64
+- 3.0.013850001-no-amd64
+- 3.0.013850001-pt-amd64
+- 3.0.013850001-tr-amd64
+- 3.0.013850001-zh-amd64
+- 3.0.013850001-zht-amd64
 - latest

@@ -1,6 +1,20 @@
 ---
 title: oss/azure/secrets-store/provider-azure
 ---
+- 0.0.10
+- 0.0.10-linux-amd64
+- 0.0.10-windows-1809-amd64
+- 0.0.11
+- 0.0.11-linux-amd64
+- 0.0.11-linux-amd64.1
+- 0.0.11-windows-1809-amd64
+- 0.0.11.1
+- 0.0.12
+- 0.0.12-linux-amd64
+- 0.0.12-windows-1809-amd64
+- 0.0.12-windows-1903-amd64
+- 0.0.12-windows-1909-amd64
+- 0.0.12-windows-2004-amd64
 - 0.0.9
 - 0.0.9-linux-amd64
 - 0.0.9-windows-1809-amd64

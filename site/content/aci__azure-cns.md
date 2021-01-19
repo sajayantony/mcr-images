@@ -16,6 +16,7 @@ title: aci/azure-cns
 - fixmanifest_20201011.2
 - fixmanifest_20201012.1
 - fixmanifest_20201012.2
+- gpufix_20201023.1
 - infra-mount_20181128.3
 - infra-mount_20181128.4
 - junjiez-move-out-mcr_20180810.6
@@ -105,7 +106,11 @@ title: aci/azure-cns
 - master_20201006.1
 - master_20201007.2
 - master_20201012.1
+- master_20201023.1
+- master_20201116.1
+- master_20201210.1
 - sakreter-TestingAKSACILogs_20180830.1
+- updatecni-cns_20201113.2
 - updatesidecars_20200104.1
 - xiazhan-msifixes_20180913.2
 - xiazhan-msifixes_20180913.3

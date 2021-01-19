@@ -7,5 +7,9 @@ title: mssql/bdc/mssql-security-knox
 - 2019-CU4-ubuntu-16.04
 - 2019-CU5-ubuntu-16.04
 - 2019-CU6-ubuntu-16.04
+- 2019-CU8-GDR2-ubuntu-16.04
+- 2019-CU8-OD2-ubuntu-16.04
+- 2019-CU8-ubuntu-16.04
 - 2019-GDR1-ubuntu-16.04
+- 2019-GDR2-ubuntu-16.04
 - latest

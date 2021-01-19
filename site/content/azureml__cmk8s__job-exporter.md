@@ -5,6 +5,10 @@ title: azureml/cmk8s/job-exporter
 - 06-30
 - 07-28-rest
 - 09-16
+- 1110-rest-new
+- 2020-11-10-001
+- 2020-11-11_21-41-57
+- 2020-11-12-amlop-update
 - add-istio-06-22
 - add-istio-06-28
 - amlop-06-30
@@ -13,6 +17,7 @@ title: azureml/cmk8s/job-exporter
 - amlop-07-08
 - amlop-07-14
 - amlop-07-21
+- amlop-2020-10-30
 - build_pipeline-06-28
 - build_pipeline-39b1b56381653231fc0a57a96e05fb262263cb71-07-03
 - build_pipeline-4645fcff16ec53fdf47adedd1961f44b6c52921e-06-28
@@ -30,6 +35,7 @@ title: azureml/cmk8s/job-exporter
 - default-queue-0806
 - gcr2mcr
 - private-kubeflow
+- private-oss-1105
 - relay-07-20
 - release-b7b312967c5f7238635d8b1347a54359ef17a515
 - replace-kubeconf-06-28

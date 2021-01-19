@@ -5,3 +5,7 @@ title: azure-policy/policy-kubernetes-webhook
 - prod_20200505.2
 - prod_20200505.3
 - prod_20201007.1
+- prod_20201023.1
+- prod_20201103.1
+- prod_20201109.1
+- prod_20201217.1

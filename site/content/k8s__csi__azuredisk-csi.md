@@ -7,6 +7,15 @@ title: k8s/csi/azuredisk-csi
 - v0.10.0
 - v0.10.0-linux-amd64
 - v0.10.0-windows-1809-amd64
+- v0.10.0-windows-1903-amd64
+- v0.10.0-windows-1909-amd64
+- v0.10.0-windows-2004-amd64
+- v0.11.0
+- v0.11.0-linux-amd64
+- v0.11.0-windows-1809-amd64
+- v0.11.0-windows-1903-amd64
+- v0.11.0-windows-1909-amd64
+- v0.11.0-windows-2004-amd64
 - v0.2.0
 - v0.2.0-alpha
 - v0.3.0

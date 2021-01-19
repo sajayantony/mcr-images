@@ -52,6 +52,8 @@ title: azure-application-gateway/kubernetes-ingress
 - 1.2.0-rc2
 - 1.2.0-rc3
 - 1.2.1
+- 1.3.0
+- 1.3.0-rc1
 - latest
 - test
 - v0.2-rc1

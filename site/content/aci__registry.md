@@ -12,6 +12,7 @@ title: aci/registry
 - fixmanifest_20201011.2
 - fixmanifest_20201012.1
 - fixmanifest_20201012.2
+- gpufix_20201023.1
 - master_20191002.1
 - master_20191003.1
 - master_20191014.1
@@ -29,4 +30,6 @@ title: aci/registry
 - master_20200810.1
 - master_20201006.1
 - master_20201012.1
+- master_20201023.1
+- master_20201210.1
 - updatesidecars_20200104.1

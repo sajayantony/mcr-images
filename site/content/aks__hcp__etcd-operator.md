@@ -1,6 +1,15 @@
 ---
 title: aks/hcp/etcd-operator
 ---
+- v0.5.10-azure
+- v0.5.11-azure
+- v0.5.13-azure
+- v0.5.14-azure
+- v0.5.15-azure
+- v0.5.16-azure
+- v0.5.17-azure
+- v0.5.18-azure
+- v0.5.19-azure
 - v0.5.2-azure-p1
 - v0.5.2-azure-p10
 - v0.5.2-azure-p11
@@ -52,8 +61,22 @@ title: aks/hcp/etcd-operator
 - v0.5.2-azure-p41.5
 - v0.5.2-azure-p41.5.beta
 - v0.5.2-azure-p41.6
+- v0.5.2-azure-p41.7
+- v0.5.2-azure-p41.7.beta1
+- v0.5.2-azure-p41.7.beta2
 - v0.5.2-azure-p5
 - v0.5.2-azure-p6
 - v0.5.2-azure-p7
 - v0.5.2-azure-p8
 - v0.5.2-azure-p9
+- v0.5.20-azure
+- v0.5.21-azure
+- v0.5.22-azure
+- v0.5.3-azure
+- v0.5.3-azure.beta1
+- v0.5.4-azure
+- v0.5.5-azure
+- v0.5.6-azure
+- v0.5.7-azure
+- v0.5.8-azure
+- v0.5.9-azure

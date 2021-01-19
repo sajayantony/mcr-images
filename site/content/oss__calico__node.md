@@ -93,6 +93,16 @@ title: oss/calico/node
 - v3.16.2-linux-amd64
 - v3.16.3
 - v3.16.3-linux-amd64
+- v3.16.4
+- v3.16.4-linux-amd64
+- v3.16.5
+- v3.16.5-linux-amd64
+- v3.16.6
+- v3.16.6-linux-amd64
+- v3.17.0
+- v3.17.0-linux-amd64
+- v3.17.1
+- v3.17.1-linux-amd64
 - v3.2.2
 - v3.2.2-linux-amd64
 - v3.2.3
@@ -197,6 +207,8 @@ title: oss/calico/node
 - v3.8.8-linux-amd64
 - v3.8.9
 - v3.8.9-linux-amd64
+- v3.8.9-linux-amd64.1
+- v3.8.9.1
 - v3.9.0
 - v3.9.0-linux-amd64
 - v3.9.1

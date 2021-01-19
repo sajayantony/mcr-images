@@ -27,3 +27,7 @@ title: oss/appscode/guard
 - v0.6.1-linux-amd64
 - v0.6.2
 - v0.6.2-linux-amd64
+- v0.7.0
+- v0.7.0-linux-amd64
+- v0.7.1
+- v0.7.1-linux-amd64

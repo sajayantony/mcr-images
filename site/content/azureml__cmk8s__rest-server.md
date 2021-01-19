@@ -3,9 +3,15 @@ title: azureml/cmk8s/rest-server
 ---
 - 07-28-rest
 - 09-16
+- 1110-rest-new
+- 2020-11-10-001
+- 2020-11-11_21-41-57
+- 2020-11-12-amlop-update
+- amlop-2020-10-30
 - default-queue-0806
 - gcr2mcr
 - private-kubeflow
+- private-oss-1105
 - relay-rest-07-21
 - release-b7b312967c5f7238635d8b1347a54359ef17a515
 - rest-only

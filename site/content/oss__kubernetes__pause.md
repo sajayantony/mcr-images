@@ -50,3 +50,16 @@ title: oss/kubernetes/pause
 - 3.2
 - 3.2-linux-amd64
 - 3.3-linux-amd64
+- 3.4
+- 3.4-linux-amd64
+- 3.4-windows-1809-amd64
+- 3.4-windows-1903-amd64
+- 3.4-windows-1909-amd64
+- 3.4-windows-2004-amd64
+- 3.4.1
+- 3.4.1-linux-amd64
+- 3.4.1-windows-1809-amd64
+- 3.4.1-windows-1903-amd64
+- 3.4.1-windows-1909-amd64
+- 3.4.1-windows-2004-amd64
+- 3.4.1-windows-20H2-amd64

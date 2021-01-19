@@ -3,9 +3,12 @@ title: azureml/intelmpi2018.3-cuda10.0-cudnn7-ubuntu16.04
 ---
 - 20200423.v1
 - 20200704.v1
-- 20200715.vinvalid-username
-- 20200716.vinvalid-username
 - 20200723.v1
 - 20200817.v1
 - 20200821.v1
+- 20201113.v1
+- 20201211.v1
+- 20210104.v1
+- 20210107.v1
+- 20210113.v1
 - latest

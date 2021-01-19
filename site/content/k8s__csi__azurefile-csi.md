@@ -3,12 +3,26 @@ title: k8s/csi/azurefile-csi
 ---
 - latest
 - latest-linux
+- latest-linux-amd64
 - latest-win1809
+- latest-windows-1809-amd64
+- latest-windows-1903-amd64
+- latest-windows-1909-amd64
+- latest-windows-2004-amd64
 - v0.1.0
 - v0.1.0-alpha
 - v0.10.0
 - v0.10.0-linux-amd64
 - v0.10.0-windows-1809-amd64
+- v0.10.0-windows-1903-amd64
+- v0.10.0-windows-1909-amd64
+- v0.10.0-windows-2004-amd64
+- v0.11.0
+- v0.11.0-linux-amd64
+- v0.11.0-windows-1809-amd64
+- v0.11.0-windows-1903-amd64
+- v0.11.0-windows-1909-amd64
+- v0.11.0-windows-2004-amd64
 - v0.2.0
 - v0.2.0-alpha
 - v0.3.0

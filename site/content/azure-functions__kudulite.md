@@ -3,6 +3,7 @@ title: azure-functions/kudulite
 ---
 - 2.11a
 - dev
+- dev-prerelease
 - hazeng-stage
 - kudu-1.0
 - kudu-2.0
@@ -13,6 +14,12 @@ title: azure-functions/kudulite
 - kudu-2.12
 - kudu-2.12a
 - kudu-2.12b
+- kudu-2.13
+- kudu-2.13-prerelease
+- kudu-2.13a
+- kudu-2.13a-prerelease
+- kudu-2.14
+- kudu-2.14-prerelease
 - kudu-2.2
 - kudu-2.3
 - kudu-2.4

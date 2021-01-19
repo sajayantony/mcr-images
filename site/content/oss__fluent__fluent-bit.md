@@ -1,0 +1,21 @@
+---
+title: oss/fluent/fluent-bit
+---
+- v1.6.10
+- v1.6.10-linux-amd64
+- v1.6.2
+- v1.6.2-linux-amd64
+- v1.6.3
+- v1.6.3-linux-amd64
+- v1.6.4
+- v1.6.4-linux-amd64
+- v1.6.5
+- v1.6.5-linux-amd64
+- v1.6.6
+- v1.6.6-linux-amd64
+- v1.6.7
+- v1.6.7-linux-amd64
+- v1.6.8
+- v1.6.8-linux-amd64
+- v1.6.9
+- v1.6.9-linux-amd64

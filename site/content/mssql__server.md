@@ -27,6 +27,8 @@ title: mssql/server
 - 2017-CU20-ubuntu
 - 2017-CU20-ubuntu-16.04
 - 2017-CU21-ubuntu-16.04
+- 2017-CU22-GDR1-ubuntu-16.04
+- 2017-CU22-OD1-ubuntu-16.04
 - 2017-CU22-ubuntu-16.04
 - 2017-CU3-ubuntu
 - 2017-CU4-ubuntu
@@ -39,6 +41,8 @@ title: mssql/server
 - 2017-GDR-ubuntu
 - 2017-GDR3
 - 2017-GDR3-ubuntu
+- 2017-GDR4
+- 2017-GDR4-ubuntu
 - 2017-cu16
 - 2017-cu16-ubuntu
 - 2017-cu17
@@ -57,10 +61,16 @@ title: mssql/server
 - 2019-CU5-ubuntu-18.04
 - 2019-CU6-ubuntu-16.04
 - 2019-CU6-ubuntu-18.04
+- 2019-CU8-GDR1-ubuntu-16.04
+- 2019-CU8-GDR1-ubuntu-18.04
+- 2019-CU8-OD2-ubuntu-16.04
+- 2019-CU8-OD2-ubuntu-18.04
 - 2019-CU8-ubuntu-16.04
 - 2019-CU8-ubuntu-18.04
 - 2019-GA-ubuntu-16.04
 - 2019-GDR1-ubuntu-16.04
+- 2019-GDR2-ubuntu-16.04
+- 2019-gdr2-ubuntu-16.04
 - 2019-latest
 - latest
 - latest-ubuntu

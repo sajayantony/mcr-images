@@ -17,3 +17,5 @@ title: aci/msi-atlas-adapter
 - master_20200814.1
 - master_20201006.1
 - master_20201007.2
+- master_20201203.1
+- master_20201210.1

@@ -2,4 +2,5 @@
 title: azure-sql-edge/premium
 ---
 - 1.0.0
+- 1.0.1
 - latest

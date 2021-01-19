@@ -16,6 +16,7 @@ title: aci/msi-adapter
 - fixmanifest_20201011.2
 - fixmanifest_20201012.1
 - fixmanifest_20201012.2
+- gpufix_20201023.1
 - infra-mount_20181128.3
 - infra-mount_20181128.4
 - junjiez-move-out-mcr_20180810.6
@@ -82,6 +83,8 @@ title: aci/msi-adapter
 - master_20201006.1
 - master_20201007.2
 - master_20201012.1
+- master_20201023.1
+- master_20201210.1
 - sakreter-TestingAKSACILogs_20180830.1
 - updatesidecars_20200104.1
 - xiazhan-msifixes_20180913.2

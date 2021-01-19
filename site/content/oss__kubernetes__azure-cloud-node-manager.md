@@ -16,3 +16,6 @@ title: oss/kubernetes/azure-cloud-node-manager
 - v0.6.0
 - v0.6.0-linux-amd64
 - v0.6.0-windows-1809-amd64
+- v0.7.0
+- v0.7.0-linux-amd64
+- v0.7.0-windows-1809-amd64

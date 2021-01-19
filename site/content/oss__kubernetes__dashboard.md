@@ -17,3 +17,7 @@ title: oss/kubernetes/dashboard
 - v2.0.3-linux-amd64
 - v2.0.4
 - v2.0.4-linux-amd64
+- v2.0.5
+- v2.0.5-linux-amd64
+- v2.1.0
+- v2.1.0-linux-amd64

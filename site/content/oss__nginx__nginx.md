@@ -113,6 +113,8 @@ title: oss/nginx/nginx
 - 1.17.4-alpine-linux-amd64
 - 1.17.5-alpine
 - 1.17.5-alpine-linux-amd64
+- 1.19.5
+- 1.19.5-linux-amd64
 - 1.8.1-alpine
 - 1.8.1-alpine-linux-amd64
 - 1.9.14-alpine

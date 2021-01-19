@@ -9,3 +9,5 @@ title: oss/kubernetes/kube-rbac-proxy
 - v0.5.0-linux-amd64
 - v0.7.0
 - v0.7.0-linux-amd64
+- v0.8.0
+- v0.8.0-linux-amd64

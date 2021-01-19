@@ -14,5 +14,6 @@ title: azureml-profiling-loadgenerator
 - 20200115.5
 - 20200220.2
 - 20200723.2
+- 20210113.5
 - 4778740
 - latest

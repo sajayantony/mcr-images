@@ -54,8 +54,11 @@ title: powershell/test-deps
 - preview-ubuntu-18.04
 - preview-ubuntu-20.04
 - preview-ubuntu-bionic
+- preview-ubuntu-focal
 - preview-ubuntu-xenial
 - ubuntu-16.04
 - ubuntu-18.04
+- ubuntu-20.04
 - ubuntu-bionic
+- ubuntu-focal
 - ubuntu-xenial

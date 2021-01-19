@@ -5,6 +5,8 @@ title: azure-app-service/tomcat
 - 8.5-java11_190522230100
 - 8.5-java11_200319054033
 - 8.5-java11_200714234736
+- 8.5-java11_210107023150
+- 8.5-java11_210107204607
 - 8.5-java11_fast
 - 8.5-java11_stable
 - 8.5-java11_stage
@@ -12,6 +14,8 @@ title: azure-app-service/tomcat
 - 8.5-jre8_190522230100
 - 8.5-jre8_200319054033
 - 8.5-jre8_200714234736
+- 8.5-jre8_210107023150
+- 8.5-jre8_210107204607
 - 8.5-jre8_fast
 - 8.5-jre8_stable
 - 8.5-jre8_stage
@@ -19,6 +23,8 @@ title: azure-app-service/tomcat
 - 9.0-java11_190522230100
 - 9.0-java11_200319054033
 - 9.0-java11_200714234736
+- 9.0-java11_210107023150
+- 9.0-java11_210107204607
 - 9.0-java11_fast
 - 9.0-java11_stable
 - 9.0-java11_stage
@@ -26,6 +32,8 @@ title: azure-app-service/tomcat
 - 9.0-jre8_190522230100
 - 9.0-jre8_200319054033
 - 9.0-jre8_200714234736
+- 9.0-jre8_210107023150
+- 9.0-jre8_210107204607
 - 9.0-jre8_fast
 - 9.0-jre8_stable
 - 9.0-jre8_stage

@@ -69,6 +69,8 @@ title: oss/kubernetes/tiller
 - v2.16.8-linux-amd64
 - v2.16.9
 - v2.16.9-linux-amd64
+- v2.17.0
+- v2.17.0-linux-amd64
 - v2.2.0
 - v2.2.0-linux-amd64
 - v2.2.1

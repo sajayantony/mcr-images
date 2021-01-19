@@ -13,3 +13,5 @@ title: oss/kubernetes/azure-cloud-controller-manager
 - v0.5.1-linux-amd64
 - v0.6.0
 - v0.6.0-linux-amd64
+- v0.7.0
+- v0.7.0-linux-amd64

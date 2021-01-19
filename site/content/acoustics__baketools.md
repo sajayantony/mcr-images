@@ -10,6 +10,7 @@ title: acoustics/baketools
 - 1.2
 - 1.2_Optimized
 - 1.2_Optimized_Windows
+- 2.0.143_Linux
 - 2.0_Linux
 - 2.0_Windows
 - latest

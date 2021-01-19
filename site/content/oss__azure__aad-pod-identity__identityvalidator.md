@@ -3,3 +3,13 @@ title: oss/azure/aad-pod-identity/identityvalidator
 ---
 - v1.6.3
 - v1.6.3-linux-amd64
+- v1.7.0
+- v1.7.0-linux-amd64
+- v1.7.0-rc.0
+- v1.7.0-rc.0-linux-amd64
+- v1.7.1
+- v1.7.1-linux-amd64
+- v1.7.1-rc.0
+- v1.7.1-rc.0-linux-amd64
+- v1.7.1-rc.1
+- v1.7.1-rc.1-linux-amd64

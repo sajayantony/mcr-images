@@ -3,10 +3,26 @@ title: azure-cognitive-services/vision/read
 ---
 - 2.0-preview
 - 2.0.013500006-amd64-preview
+- 2.0.014120005-amd64-preview
+- 2.0.014130002-amd64-preview
+- 2.0.014250002-amd64-preview
 - 3.0-preview
+- 3.0.0.013980001-795a021b-amd64-preview
+- 3.0.0.014110001-9460411a-amd64-preview
 - 3.0.013500002-fe71e620-amd64-preview
 - 3.0.013670001-9c165138-amd64-preview
+- 3.0.013830001-0cbd0451-amd64-preview
 - 3.1-preview
+- 3.1-preview.2
 - 3.1.013500002-fe71e620-amd64-preview
 - 3.1.013670001-9c165138-amd64-preview
+- 3.1.2.013980001-795a021b-amd64-preview
+- 3.1.2.014110001-9460411a-amd64-preview
+- 3.2-preview.1
+- 3.2-preview.2
+- 3.2.1.014110001-9460411a-amd64-preview
+- 3.2.1.014430003-fb2d6128-amd64-preview
+- 3.2.1.014670004-6df57ce1-amd64-preview
+- 3.2.1.014710002-6821ced9-amd64-preview
+- 3.2.2.014710002-6821ced9-amd64-preview
 - latest

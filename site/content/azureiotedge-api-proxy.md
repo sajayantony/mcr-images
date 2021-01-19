@@ -1,0 +1,19 @@
+---
+title: azureiotedge-api-proxy
+---
+- 1.0
+- 1.0-linux-amd64
+- 1.0-linux-arm32v7
+- 1.0-linux-arm64v8
+- 1.0.0-rc1
+- 1.0.0-rc1-linux-amd64
+- 1.0.0-rc1-linux-arm32v7
+- 1.0.0-rc1-linux-arm64v8
+- 1.0.0-rc3
+- 1.0.0-rc3-linux-amd64
+- 1.0.0-rc3-linux-arm32v7
+- 1.0.0-rc3-linux-arm64v8
+- latest
+- latest-linux-amd64
+- latest-linux-arm32v7
+- latest-linux-arm64v8

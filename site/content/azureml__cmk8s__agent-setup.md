@@ -5,6 +5,10 @@ title: azureml/cmk8s/agent-setup
 - 06-30
 - 07-28-rest
 - 09-16
+- 1110-rest-new
+- 2020-11-10-001
+- 2020-11-11_21-41-57
+- 2020-11-12-amlop-update
 - 3f3c72007b9
 - add-istio-06-22
 - add-istio-06-28
@@ -16,6 +20,7 @@ title: azureml/cmk8s/agent-setup
 - amlop-07-21
 - amlop-07-21-new
 - amlop-07-21-new-mcr
+- amlop-2020-10-30
 - azureml-07-06
 - build_pipeline-06-28
 - build_pipeline-39b1b56381653231fc0a57a96e05fb262263cb71-07-03
@@ -35,6 +40,7 @@ title: azureml/cmk8s/agent-setup
 - default-queue-0806-new
 - gcr2mcr
 - private-kubeflow
+- private-oss-1105
 - relay-07-07
 - relay-07-20
 - relay-relay-server-07-07
@@ -43,5 +49,6 @@ title: azureml/cmk8s/agent-setup
 - replace-kubeconf-06-28
 - rest-only
 - unify-azureml-setup-0922
+- unify-azureml-setup-0922-bugfix
 - zetia-07-02
 - zetia2-07-14

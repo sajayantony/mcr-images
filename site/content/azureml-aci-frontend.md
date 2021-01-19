@@ -7,3 +7,4 @@ title: azureml-aci-frontend
 - 20191021
 - 20200228
 - 20200305
+- 20201030

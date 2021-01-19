@@ -5,6 +5,8 @@ title: azure-app-service/java
 - 11-java11_191030025800
 - 11-java11_200319054033
 - 11-java11_200714234736
+- 11-java11_210107023150
+- 11-java11_210107204607
 - 11-java11_fast
 - 11-java11_stable
 - 11-java11_stage
@@ -12,6 +14,8 @@ title: azure-app-service/java
 - 8-jre8_191030025800
 - 8-jre8_200319054033
 - 8-jre8_200714234736
+- 8-jre8_210107023150
+- 8-jre8_210107204607
 - 8-jre8_fast
 - 8-jre8_stable
 - 8-jre8_stage

@@ -267,6 +267,8 @@ title: oss/etcd-io/etcd
 - v3.4.13-linux-amd64
 - v3.4.13-linux-amd64.1
 - v3.4.13.1
+- v3.4.14
+- v3.4.14-linux-amd64
 - v3.4.2
 - v3.4.2-linux-amd64
 - v3.4.3

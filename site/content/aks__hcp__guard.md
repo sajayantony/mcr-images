@@ -15,5 +15,7 @@ title: aks/hcp/guard
 - 0.4.0-64-g9d1adc18_linux_amd64
 - v0.6.1-23-g2f179bb9-dbg_linux_amd64
 - v0.6.1-23-g2f179bb9_linux_amd64
+- v0.6.1-38-ge9abb2b9-dbg_linux_amd64
+- v0.6.1-38-ge9abb2b9_linux_amd64
 - v0.6.1-5-g9d1adc18-dbg_linux_amd64
 - v0.6.1-5-g9d1adc18_linux_amd64

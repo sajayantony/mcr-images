@@ -1,0 +1,18 @@
+---
+title: aks/hcp/etcd-backup-fetcher
+---
+- v0.5.10-azure
+- v0.5.11-azure
+- v0.5.13-azure
+- v0.5.14-azure
+- v0.5.15-azure
+- v0.5.16-azure
+- v0.5.17-azure
+- v0.5.18-azure
+- v0.5.19-azure
+- v0.5.20-azure
+- v0.5.21-azure
+- v0.5.22-azure
+- v0.5.7-azure
+- v0.5.8-azure
+- v0.5.9-azure

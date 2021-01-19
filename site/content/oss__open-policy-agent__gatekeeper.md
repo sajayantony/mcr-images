@@ -38,3 +38,17 @@ title: oss/open-policy-agent/gatekeeper
 - v3.1.0-rc.1-linux-amd64
 - v3.1.1
 - v3.1.1-linux-amd64
+- v3.1.2
+- v3.1.2-linux-amd64
+- v3.1.3
+- v3.1.3-linux-amd64
+- v3.2.0
+- v3.2.0-linux-amd64
+- v3.2.0-rc.1
+- v3.2.0-rc.1-linux-amd64
+- v3.2.1
+- v3.2.1-linux-amd64
+- v3.2.2
+- v3.2.2-linux-amd64
+- v3.3.0-beta.1
+- v3.3.0-beta.1-linux-amd64

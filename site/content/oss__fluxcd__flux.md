@@ -9,3 +9,5 @@ title: oss/fluxcd/flux
 - 1.20.2-linux-amd64
 - 1.21.0
 - 1.21.0-linux-amd64
+- 1.21.1
+- 1.21.1-linux-amd64

@@ -3,6 +3,10 @@ title: azureml/cmk8s/amlop
 ---
 - 07-28-rest
 - 09-16
+- 1110-rest-new
+- 2020-11-10-001
+- 2020-11-11_21-41-57
+- 2020-11-12-amlop-update
 - 3f3c72007b9
 - add-istio-06-28
 - amlop-06-30
@@ -11,6 +15,7 @@ title: azureml/cmk8s/amlop
 - amlop-07-08
 - amlop-07-14
 - amlop-07-21
+- amlop-2020-10-30
 - amlop-bugfix-0812
 - build_pipeline-06-28
 - build_pipeline-39b1b56381653231fc0a57a96e05fb262263cb71-07-03
@@ -30,6 +35,7 @@ title: azureml/cmk8s/amlop
 - default-queue-0812
 - gcr2mcr
 - private-kubeflow
+- private-oss-1105
 - relay-07-20
 - relay-rest-07-21
 - release-b7b312967c5f7238635d8b1347a54359ef17a515

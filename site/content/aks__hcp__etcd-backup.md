@@ -1,0 +1,26 @@
+---
+title: aks/hcp/etcd-backup
+---
+- v0.5.10-azure
+- v0.5.11-azure
+- v0.5.13-azure
+- v0.5.14-azure
+- v0.5.15-azure
+- v0.5.16-azure
+- v0.5.17-azure
+- v0.5.18-azure
+- v0.5.19-azure
+- v0.5.2-azure-p41.2
+- v0.5.2-azure-p41.3
+- v0.5.2-azure-p41.7
+- v0.5.20-azure
+- v0.5.21-azure
+- v0.5.22-azure
+- v0.5.3-azure
+- v0.5.3-azure.beta1
+- v0.5.4-azure
+- v0.5.5-azure
+- v0.5.6-azure
+- v0.5.7-azure
+- v0.5.8-azure
+- v0.5.9-azure

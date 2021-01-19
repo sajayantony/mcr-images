@@ -23,3 +23,6 @@ title: oss/kubernetes-csi/livenessprobe
 - v2.1.0
 - v2.1.0-linux-amd64
 - v2.1.0-windows-1809-amd64
+- v2.2.0
+- v2.2.0-linux-amd64
+- v2.2.0-windows-1809-amd64

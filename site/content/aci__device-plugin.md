@@ -12,6 +12,7 @@ title: aci/device-plugin
 - fixmanifest_20201011.2
 - fixmanifest_20201012.1
 - fixmanifest_20201012.2
+- gpufix_20201023.1
 - master_20190316.1
 - master_20190619.1
 - master_20190622.1
@@ -39,4 +40,6 @@ title: aci/device-plugin
 - master_20200810.1
 - master_20201006.1
 - master_20201012.1
+- master_20201023.1
+- master_20201210.1
 - updatesidecars_20200104.1

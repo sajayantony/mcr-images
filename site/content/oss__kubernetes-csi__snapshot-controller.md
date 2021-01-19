@@ -11,7 +11,15 @@ title: oss/kubernetes-csi/snapshot-controller
 - v2.1.1-linux-amd64
 - v2.1.2
 - v2.1.2-linux-amd64
+- v2.1.3
+- v2.1.3-linux-amd64
 - v3.0.0
 - v3.0.0-linux-amd64
 - v3.0.1
 - v3.0.1-linux-amd64
+- v3.0.2
+- v3.0.2-linux-amd64
+- v3.0.3
+- v3.0.3-linux-amd64
+- v4.0.0
+- v4.0.0-linux-amd64

@@ -11,3 +11,5 @@ title: oss/kubernetes/metrics-scraper
 - v1.0.4-linux-amd64
 - v1.0.5
 - v1.0.5-linux-amd64
+- v1.0.6
+- v1.0.6-linux-amd64

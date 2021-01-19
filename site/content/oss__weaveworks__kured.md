@@ -17,3 +17,7 @@ title: oss/weaveworks/kured
 - 1.4.5-linux-amd64
 - 1.5.0
 - 1.5.0-linux-amd64
+- 1.5.1
+- 1.5.1-linux-amd64
+- 1.6.1
+- 1.6.1-linux-amd64

@@ -7,3 +7,15 @@ title: oss/kubernetes-csi/secrets-store/driver
 - v0.0.16
 - v0.0.16-linux-amd64
 - v0.0.16-windows-1809-amd64
+- v0.0.17
+- v0.0.17-linux-amd64
+- v0.0.17-windows-1809-amd64
+- v0.0.18
+- v0.0.18-linux-amd64
+- v0.0.18-windows-1809-amd64
+- v0.0.19
+- v0.0.19-linux-amd64
+- v0.0.19-windows-1809-amd64
+- v0.0.19-windows-1903-amd64
+- v0.0.19-windows-1909-amd64
+- v0.0.19-windows-2004-amd64

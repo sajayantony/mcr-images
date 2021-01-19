@@ -216,6 +216,8 @@ title: oss/kubernetes/cloud-controller-manager
 - v1.15.11-hotfix.20200909-linux-amd64
 - v1.15.11-hotfix.20200909-linux-amd64.1
 - v1.15.11-hotfix.20200909.1
+- v1.15.11-hotfix.20201203
+- v1.15.11-hotfix.20201203-linux-amd64
 - v1.15.11-linux-amd64
 - v1.15.12
 - v1.15.12-azs

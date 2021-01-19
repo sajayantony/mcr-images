@@ -31,3 +31,7 @@ title: oss/kubernetes-csi/csi-provisioner
 - v2.0.2-linux-amd64
 - v2.0.3
 - v2.0.3-linux-amd64
+- v2.0.4
+- v2.0.4-linux-amd64
+- v2.1.0
+- v2.1.0-linux-amd64

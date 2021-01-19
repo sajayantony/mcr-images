@@ -5,6 +5,13 @@ title: azureml/cmk8s/oss-component
 - bash-4
 - everpeace-k8s-host-device-plugin-latest
 - mpioperator-mpi-operator-latest
+- private-mpi-op
+- private-pytorch-op
+- private-tf-op
+- private-vc-controller-manager
+- private-vc-scheduler
+- private-vc-webhook-manager
+- private-webhook-manager
 - prom-node-exporter-v0.16.0
 - prom-prometheus-v2.16.0
 - tf_operator-v1.0.0-g92389064

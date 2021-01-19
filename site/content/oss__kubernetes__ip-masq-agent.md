@@ -39,5 +39,9 @@ title: oss/kubernetes/ip-masq-agent
 - v2.5.0-linux-amd64
 - v2.5.0-linux-amd64.1
 - v2.5.0-linux-amd64.2
+- v2.5.0-linux-amd64.3
+- v2.5.0-linux-amd64.4
 - v2.5.0.1
 - v2.5.0.2
+- v2.5.0.3
+- v2.5.0.4

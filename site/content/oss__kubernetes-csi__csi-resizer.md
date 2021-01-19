@@ -15,4 +15,7 @@ title: oss/kubernetes-csi/csi-resizer
 - v0.5.1-linux-amd64
 - v1.0.0
 - v1.0.0-linux-amd64
+- v1.0.1
 - v1.0.1-linux-amd64
+- v1.1.0
+- v1.1.0-linux-amd64

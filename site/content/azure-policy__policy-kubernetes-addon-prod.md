@@ -14,3 +14,10 @@ title: azure-policy/policy-kubernetes-addon-prod
 - prod_20200901.1
 - prod_20200923.1
 - prod_20201012.1
+- prod_20201015.1
+- prod_20201023.1
+- prod_20201103.1
+- prod_20201103.2
+- prod_20201109.1
+- prod_20201217.1
+- prod_20210120.1

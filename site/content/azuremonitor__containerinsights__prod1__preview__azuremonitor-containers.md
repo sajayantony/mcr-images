@@ -3,3 +3,7 @@ title: azuremonitor/containerinsights/prod1/preview/azuremonitor-containers
 ---
 - 2.7.5
 - 2.7.6
+- 2.7.7
+- 2.7.8
+- 2.7.9
+- 2.8.0

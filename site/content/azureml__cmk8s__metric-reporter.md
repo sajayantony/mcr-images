@@ -4,6 +4,10 @@ title: azureml/cmk8s/metric-reporter
 - 06-30
 - 07-28-rest
 - 09-16
+- 1110-rest-new
+- 2020-11-10-001
+- 2020-11-11_21-41-57
+- 2020-11-12-amlop-update
 - add-istio-06-28
 - amlop-06-30
 - amlop-07-01
@@ -11,6 +15,7 @@ title: azureml/cmk8s/metric-reporter
 - amlop-07-08
 - amlop-07-14
 - amlop-07-21
+- amlop-2020-10-30
 - build_pipeline-39b1b56381653231fc0a57a96e05fb262263cb71-07-03
 - build_pipeline-55115918f4648c2bec8db361b2e0dd6e2a6c6ff5-07-08
 - build_pipeline-578c6e17d1692c3eab4678f279e9e107bdd07152-07-03
@@ -24,6 +29,7 @@ title: azureml/cmk8s/metric-reporter
 - default-queue-0806
 - gcr2mcr
 - private-kubeflow
+- private-oss-1105
 - relay-07-20
 - relay-rest-07-21
 - release-b7b312967c5f7238635d8b1347a54359ef17a515

@@ -6,4 +6,7 @@ title: aci/shareloggingagent
 - fixmanifest_20201011.2
 - fixmanifest_20201012.1
 - fixmanifest_20201012.2
+- gpufix_20201023.1
 - master_20201012.1
+- master_20201023.1
+- master_20201210.1

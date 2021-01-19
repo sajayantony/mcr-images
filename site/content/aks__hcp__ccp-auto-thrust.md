@@ -4,6 +4,8 @@ title: aks/hcp/ccp-auto-thrust
 - v0.0.10
 - v0.0.10.beta1
 - v0.0.10.beta2
+- v0.0.10.beta4
+- v0.0.11
 - v0.0.8
 - v0.0.9
 - v0.0.9-beta
@@ -15,6 +17,7 @@ title: aks/hcp/ccp-auto-thrust
 - v1.10.10-v0.0.8
 - v1.10.10-v0.0.9
 - v1.9.2-v0.0.10
+- v1.9.2-v0.0.11
 - v1.9.2-v0.0.4
 - v1.9.2-v0.0.5
 - v1.9.2-v0.0.6

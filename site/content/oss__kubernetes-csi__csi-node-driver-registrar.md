@@ -23,3 +23,6 @@ title: oss/kubernetes-csi/csi-node-driver-registrar
 - v2.0.1
 - v2.0.1-linux-amd64
 - v2.0.1-windows-1809-amd64
+- v2.1.0
+- v2.1.0-linux-amd64
+- v2.1.0-windows-1809-amd64

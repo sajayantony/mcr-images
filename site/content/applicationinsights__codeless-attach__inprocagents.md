@@ -11,3 +11,4 @@ title: applicationinsights/codeless-attach/inprocagents
 - 2.8.37.appsvc-preview7
 - 2.8.37.appsvc-preview8
 - 2.8.37.appsvc-preview9
+- 2.8.38

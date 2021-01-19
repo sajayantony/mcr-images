@@ -3,10 +3,14 @@ title: java/maven
 ---
 - 11-zulu-debian10
 - 11-zulu-debian9
+- 11u10-zulu-debian10
+- 11u10-zulu-debian9
 - 11u7-zulu-debian10
 - 11u7-zulu-debian9
 - 11u8-zulu-debian10
 - 11u8-zulu-debian9
+- 11u9-zulu-debian10
+- 11u9-zulu-debian9
 - 8-zulu-debian10
 - 8-zulu-debian9
 - 8u192-zulu-debian9
@@ -21,3 +25,9 @@ title: java/maven
 - 8u262-zulu-debian9
 - 8u265-zulu-debian10
 - 8u265-zulu-debian9
+- 8u272-zulu-debian10
+- 8u272-zulu-debian9
+- 8u275-zulu-debian10
+- 8u275-zulu-debian9
+- 8u282-zulu-debian10
+- 8u282-zulu-debian9

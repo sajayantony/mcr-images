@@ -3,11 +3,13 @@ title: acr/acr-cli
 ---
 - 0.1
 - 0.2
+- 0.3
 - linux-0.2
 - linux-232889b
 - linux-7ccdc3e
 - linux-804ba54
 - linux-e38f3ec
 - linux-e45d021
+- linux-e666d99
 - linux-e85b434
 - windowsservercore-1903-7d71132

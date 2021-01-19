@@ -15,3 +15,15 @@ title: oss/prometheus/prometheus
 - v2.20.1-linux-amd64
 - v2.21.0
 - v2.21.0-linux-amd64
+- v2.22.0
+- v2.22.0-linux-amd64
+- v2.22.1
+- v2.22.1-linux-amd64
+- v2.22.2
+- v2.22.2-linux-amd64
+- v2.23.0
+- v2.23.0-linux-amd64
+- v2.24.0
+- v2.24.0-linux-amd64
+- v2.24.1
+- v2.24.1-linux-amd64

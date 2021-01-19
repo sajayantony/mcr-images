@@ -12,6 +12,7 @@ title: aci/iptable-rule-injector
 - fixmanifest_20201011.2
 - fixmanifest_20201012.1
 - fixmanifest_20201012.2
+- gpufix_20201023.1
 - master_20191002.1
 - master_20191003.1
 - master_20191003.2
@@ -33,4 +34,6 @@ title: aci/iptable-rule-injector
 - master_20201006.1
 - master_20201007.2
 - master_20201012.1
+- master_20201023.1
+- master_20201210.1
 - updatesidecars_20200104.1

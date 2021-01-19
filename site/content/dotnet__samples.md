@@ -1,0 +1,22 @@
+---
+title: dotnet/samples
+---
+- aspnetapp
+- aspnetapp-buster-slim-amd64
+- aspnetapp-buster-slim-arm32v7
+- aspnetapp-buster-slim-arm64v8
+- aspnetapp-nanoserver-1809
+- aspnetapp-nanoserver-1909
+- aspnetapp-nanoserver-2004
+- aspnetapp-nanoserver-2009
+- aspnetapp-nanoserver-20H2
+- dotnetapp
+- dotnetapp-buster-slim-amd64
+- dotnetapp-buster-slim-arm32v7
+- dotnetapp-buster-slim-arm64v8
+- dotnetapp-nanoserver-1809
+- dotnetapp-nanoserver-1909
+- dotnetapp-nanoserver-2004
+- dotnetapp-nanoserver-2009
+- dotnetapp-nanoserver-20H2
+- latest

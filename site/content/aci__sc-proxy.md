@@ -66,6 +66,7 @@ title: aci/sc-proxy
 - v1.17.0-fixmanifest_20201011.2
 - v1.17.0-fixmanifest_20201012.1
 - v1.17.0-fixmanifest_20201012.2
+- v1.17.0-gpufix_20201023.1
 - v1.17.0-master_20200106.2
 - v1.17.0-master_20200106.3
 - v1.17.0-master_20200108.1
@@ -77,6 +78,8 @@ title: aci/sc-proxy
 - v1.17.0-master_20200810.1
 - v1.17.0-master_20201006.1
 - v1.17.0-master_20201012.1
+- v1.17.0-master_20201023.1
+- v1.17.0-master_20201210.1
 - v1.6-15652414
 - v1.6.13-junjiez-move-out-mcr_20180810.3
 - v1.6.13-junjiez-move-out-mcr_20180810.4

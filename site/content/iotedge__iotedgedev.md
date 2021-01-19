@@ -27,4 +27,7 @@ title: iotedge/iotedgedev
 - 2.1.3-amd64
 - 2.1.4
 - 2.1.4-amd64
+- 2.2.0
+- 2.2.0-amd64
 - latest
+- latest-amd64

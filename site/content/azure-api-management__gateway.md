@@ -29,6 +29,9 @@ title: azure-api-management/gateway
 - 1.1.0-preview-6
 - 1.1.0-preview-7
 - 1.1.0-preview-8
+- 1.1.1
+- 1.1.2
+- 1.2.0-preview-1
 - alpha
 - alpha-nonroot
 - beta

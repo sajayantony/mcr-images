@@ -25,9 +25,11 @@ title: acr/acb
 - linux-3ef8bc9
 - linux-46419da
 - linux-4801693
+- linux-4d7a916
 - linux-4d8dcc7
 - linux-54540b5
 - linux-58c6a4e
+- linux-627fa8d
 - linux-662c4f8
 - linux-685dad4
 - linux-76818b5
@@ -71,6 +73,7 @@ title: acr/acb
 - linux-teleport-77630e2
 - linux-teleport-c7577af
 - linux-teleport-ccb75b8
+- linux-teleport-dbed4f1
 - linux-teleport-f9d3fe2
 - linux-v1.0.0
 - linux-v1.0.10
@@ -114,6 +117,8 @@ title: acr/acb
 - windowsservercore-2004-3ef8bc9
 - windowsservercore-2004-3f9c5ef
 - windowsservercore-2004-4801693
+- windowsservercore-2004-4d7a916
+- windowsservercore-2004-627fa8d
 - windowsservercore-2004-662c4f8
 - windowsservercore-2004-76818b5
 - windowsservercore-2004-7f9cc4b

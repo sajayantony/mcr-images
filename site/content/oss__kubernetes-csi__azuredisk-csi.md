@@ -4,6 +4,12 @@ title: oss/kubernetes-csi/azuredisk-csi
 - master
 - master-linux-amd64
 - master-windows-1809-amd64
+- v0.10.0
+- v0.10.0-linux-amd64
+- v0.10.0-windows-1809-amd64
+- v0.10.0-windows-1903-amd64
+- v0.10.0-windows-1909-amd64
+- v0.10.0-windows-2004-amd64
 - v0.6.0
 - v0.6.0-linux-amd64
 - v0.6.0-windows-1809-amd64

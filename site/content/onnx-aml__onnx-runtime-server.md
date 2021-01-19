@@ -22,3 +22,11 @@ title: onnx-aml/onnx-runtime-server
 - v1.4.0-dnnl
 - v1.4.0-ngraph
 - v1.4.0-openvino
+- v1.5.2
+- v1.5.2-cpu
+- v1.5.2-dnnl
+- v1.5.2-openvino
+- v1.6.0
+- v1.6.0-cpu
+- v1.6.0-dnnl
+- v1.6.0-openvino

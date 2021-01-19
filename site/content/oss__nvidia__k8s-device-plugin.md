@@ -35,3 +35,9 @@ title: oss/nvidia/k8s-device-plugin
 - v0.7.0-linux-amd64
 - v0.7.0-linux-amd64.1
 - v0.7.0.1
+- v0.7.1
+- v0.7.1-linux-amd64
+- v0.7.2
+- v0.7.2-linux-amd64
+- v0.7.3
+- v0.7.3-linux-amd64

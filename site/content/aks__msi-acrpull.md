@@ -10,3 +10,4 @@ title: aks/msi-acrpull
 - 20201006.2
 - latest
 - v0.1.0-alpha
+- v0.1.0-beta

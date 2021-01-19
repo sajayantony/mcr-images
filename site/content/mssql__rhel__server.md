@@ -16,11 +16,17 @@ title: mssql/rhel/server
 - 2019-CU5-rhel-8
 - 2019-CU6-rhel-7.6
 - 2019-CU6-rhel-8
+- 2019-CU8-GDR1-rhel-7.6
+- 2019-CU8-GDR1-rhel-8
+- 2019-CU8-OD2-rhel-7.6
+- 2019-CU8-OD2-rhel-8
 - 2019-CU8-rhel-7.6
 - 2019-CU8-rhel-8
 - 2019-GA-rhel-7.0
 - 2019-GA-rhel-7.6
 - 2019-GDR1-rhel-7.0
 - 2019-GDR1-rhel-7.6
+- 2019-GDR2-rhel-7.6
+- 2019-gdr2-rhel-7.6
 - 2019-latest
 - latest

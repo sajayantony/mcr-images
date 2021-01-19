@@ -35,4 +35,5 @@ title: azuredataexplorer/k2bridge
 - 0.3.9564
 - 0.3.9565
 - 0.3.9666
+- 0.3.9718
 - latest
