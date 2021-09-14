@@ -20,6 +20,7 @@ title: azure-functions/kudulite
 - kudu-2.13a-prerelease
 - kudu-2.14
 - kudu-2.14-prerelease
+- kudu-2.15-prerelease
 - kudu-2.2
 - kudu-2.3
 - kudu-2.4

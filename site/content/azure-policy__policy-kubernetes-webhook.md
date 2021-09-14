@@ -9,3 +9,16 @@ title: azure-policy/policy-kubernetes-webhook
 - prod_20201103.1
 - prod_20201109.1
 - prod_20201217.1
+- prod_20210209.1
+- prod_20210225.1
+- prod_20210622.1
+- prod_20210628.1
+- prod_20210706.1
+- prod_20210709.1
+- prod_20210712.1
+- prod_20210713.1
+- prod_20210714.1
+- prod_20210719.1
+- prod_20210806.1
+- prod_20210909.1
+- webhookv1beta1_20210909.1

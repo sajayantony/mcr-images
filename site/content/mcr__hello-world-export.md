@@ -2,9 +2,6 @@
 title: mcr/hello-world-export
 ---
 - latest
-- test1
-- test10
-- test11
 - test12
 - test2
 - test3

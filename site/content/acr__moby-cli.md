@@ -1,10 +1,14 @@
 ---
 title: acr/moby-cli
 ---
+- linux-049c678d
 - linux-04c2b8a
 - linux-0c03bc05
 - linux-151227f
 - linux-2197a8e1
 - linux-71b6e76f
+- linux-801ff035
+- linux-9540c2fd
+- linux-acc69c1f
 - linux-b494d20d
 - linux-latest

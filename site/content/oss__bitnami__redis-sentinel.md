@@ -1,0 +1,11 @@
+---
+title: oss/bitnami/redis-sentinel
+---
+- 6.0.12
+- 6.0.12-linux-amd64
+- 6.0.12-linux-amd64.1
+- 6.0.12-linux-amd64.2
+- 6.0.12-linux-amd64.3
+- 6.0.12.1
+- 6.0.12.2
+- 6.0.12.3

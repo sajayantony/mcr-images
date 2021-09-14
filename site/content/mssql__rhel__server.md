@@ -5,6 +5,12 @@ title: mssql/rhel/server
 - 2019-CTP2.1
 - 2019-CU1-rhel-7.6
 - 2019-CU1-rhel-8
+- 2019-CU10-rhel-7.6
+- 2019-CU10-rhel-8
+- 2019-CU11-rhel-7.9
+- 2019-CU11-rhel-8.3
+- 2019-CU12-rhel-7.9
+- 2019-CU12-rhel-8.3
 - 2019-CU2-rhel-7.6
 - 2019-CU2-rhel-8
 - 2019-CU3-rhel-7.6
@@ -22,6 +28,8 @@ title: mssql/rhel/server
 - 2019-CU8-OD2-rhel-8
 - 2019-CU8-rhel-7.6
 - 2019-CU8-rhel-8
+- 2019-CU9-rhel-7.6
+- 2019-CU9-rhel-8
 - 2019-GA-rhel-7.0
 - 2019-GA-rhel-7.6
 - 2019-GDR1-rhel-7.0

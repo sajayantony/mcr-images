@@ -1,6 +1,7 @@
 ---
 title: containernetworking/azure-cni-manager
 ---
+- latest
 - v1.1.8-10-g9d03b4c-dirty
 - v1.1.8-10-g9d03b4c-dirty-20
 - v1.1.8-10-g9d03b4c-dirty-21
@@ -67,3 +68,13 @@ title: containernetworking/azure-cni-manager
 - v1.2.0-34-g6eacd38-test
 - v1.2.0-34-geb7c3d3-test
 - v1.2.0-35-g58630b2-test
+- v1.2.3
+- v1.4.0
+- v1.4.0.2
+- v1.4.11
+- v1.4.2
+- v1.4.5
+- v1.4.6
+- v1.4.7
+- v1.4.8
+- v1.4.9

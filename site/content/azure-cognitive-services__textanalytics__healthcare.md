@@ -1,0 +1,11 @@
+---
+title: azure-cognitive-services/textanalytics/healthcare
+---
+- 3.0.015470002-onprem-amd64
+- 3.0.015490002-onprem-amd64
+- 3.0.015860003-onprem-amd64
+- 3.0.016230002-onprem-amd64
+- 3.0.016360003-onprem-amd64
+- 3.0.016760004-onprem-amd64
+- 3.0.017010001-onprem-amd64
+- latest

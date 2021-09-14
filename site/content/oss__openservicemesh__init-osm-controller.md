@@ -1,0 +1,15 @@
+---
+title: oss/openservicemesh/init-osm-controller
+---
+- v0.9.0
+- v0.9.0-linux-amd64
+- v0.9.0-rc.1
+- v0.9.0-rc.1-linux-amd64
+- v0.9.0-rc.2
+- v0.9.0-rc.2-linux-amd64
+- v0.9.1
+- v0.9.1-linux-amd64
+- v0.9.1-rc.1
+- v0.9.1-rc.1-linux-amd64
+- v0.9.2
+- v0.9.2-linux-amd64

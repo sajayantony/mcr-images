@@ -5169,7 +5169,13 @@ title: mcr/hello-world
 - 88310
 - 88311
 - 87692
-- latest
 - Canary-IngestionTest
-- CentralUSEUAP-IngestionTest
+- windows
+- linux
+- latest
+- arm64
 - WestEurope-IngestionTest
+- TeamDemoApril1
+- McrDemoApril23
+- MyMcrTeamDemo
+- CentralUSEUAP-IngestionTest

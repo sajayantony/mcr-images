@@ -8,3 +8,6 @@ title: azuremonitor/containerinsights/preview/azuremonitor-containers
 - 2.7.8
 - 2.7.9
 - 2.8.0
+- 2.8.1
+- 2.8.2
+- 2.8.3

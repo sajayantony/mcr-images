@@ -10,6 +10,8 @@ title: k8s/flexvolume/blobfuse-flexvolume
 - 1.0.14
 - 1.0.15
 - 1.0.16
+- 1.0.17
+- 1.0.18
 - 1.0.2
 - 1.0.3
 - 1.0.4

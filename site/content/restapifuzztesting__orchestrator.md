@@ -8,4 +8,16 @@ title: restapifuzztesting/orchestrator
 - v1.3.0
 - v1.latest
 - v2.0.0
+- v2.1.0
+- v2.2.0
+- v2.3.0
 - v2.latest
+- v3.0.0
+- v3.1.0
+- v3.2.0
+- v3.latest
+- v4.0.0
+- v4.0.1
+- v4.1.0
+- v4.2.0
+- v4.latest

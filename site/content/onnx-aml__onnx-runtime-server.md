@@ -5,6 +5,7 @@ title: onnx-aml/onnx-runtime-server
 - latest-cpu
 - latest-dnnl
 - latest-ngraph
+- latest-openvino
 - v1.1.0
 - v1.1.0-cpu
 - v1.1.0-dnnl
@@ -30,3 +31,7 @@ title: onnx-aml/onnx-runtime-server
 - v1.6.0-cpu
 - v1.6.0-dnnl
 - v1.6.0-openvino
+- v1.7.1
+- v1.7.1-cpu
+- v1.7.1-dnnl
+- v1.7.1-openvino

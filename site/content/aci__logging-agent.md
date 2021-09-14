@@ -128,6 +128,8 @@ title: aci/logging-agent
 - master_20201012.1
 - master_20201023.1
 - master_20201210.1
+- master_20210323.1
+- master_20210401.1
 - sakreter-TestingAKSACILogs_20180830.1
 - updatesidecars_20200104.1
 - xiazhan-msifixes_20180913.2

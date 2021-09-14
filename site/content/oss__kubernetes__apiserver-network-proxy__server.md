@@ -3,3 +3,19 @@ title: oss/kubernetes/apiserver-network-proxy/server
 ---
 - v0.0.13
 - v0.0.13-linux-amd64
+- v0.0.15
+- v0.0.15-linux-amd64
+- v0.0.16
+- v0.0.16-hotfix.20210512
+- v0.0.16-hotfix.20210512-linux-amd64
+- v0.0.16-linux-amd64
+- v0.0.17
+- v0.0.17-linux-amd64
+- v0.0.19
+- v0.0.19-linux-amd64
+- v0.0.22
+- v0.0.22-linux-amd64
+- v0.0.23
+- v0.0.23-linux-amd64
+- v0.0.24
+- v0.0.24-linux-amd64

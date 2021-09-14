@@ -1,0 +1,15 @@
+---
+title: oss/fluxcd/notification-controller
+---
+- v0.13.0
+- v0.13.0-linux-amd64
+- v0.14.0
+- v0.14.0-linux-amd64
+- v0.14.1
+- v0.14.1-linux-amd64
+- v0.15.0
+- v0.15.0-linux-amd64
+- v0.15.1
+- v0.15.1-linux-amd64
+- v0.16.0
+- v0.16.0-linux-amd64

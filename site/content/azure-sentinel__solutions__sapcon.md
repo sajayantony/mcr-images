@@ -1,0 +1,15 @@
+---
+title: azure-sentinel/solutions/sapcon
+---
+- 20210523.4-preview
+- 20210701.2-preview
+- 20210720.1-preview
+- 20210721.1-preview
+- 20210727.1-preview
+- 42204578
+- 42223711
+- 42223711-preview
+- 46541292-preview
+- beta
+- latest
+- latest-preview

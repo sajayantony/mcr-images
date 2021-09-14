@@ -38,4 +38,7 @@ title: azure-blob-storage
 - 1.4.0-linux-amd64
 - 1.4.0-linux-arm32v7
 - 1.4.0-nanoserver-1809
+- 1.4.1-linux-amd64
+- 1.4.1-linux-arm32v7
+- 1.4.1-nanoserver-1809
 - latest

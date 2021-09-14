@@ -31,3 +31,9 @@ title: oss/kubernetes-csi/csi-attacher
 - v3.0.2-linux-amd64
 - v3.1.0
 - v3.1.0-linux-amd64
+- v3.2.0
+- v3.2.0-linux-amd64
+- v3.2.1
+- v3.2.1-linux-amd64
+- v3.3.0
+- v3.3.0-linux-amd64

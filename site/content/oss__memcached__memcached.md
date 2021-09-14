@@ -1,5 +1,21 @@
 ---
 title: oss/memcached/memcached
 ---
+- 1.6.10
+- 1.6.10-linux-amd64
 - 1.6.6
 - 1.6.6-linux-amd64
+- 1.6.6-linux-amd64.1
+- 1.6.6-linux-amd64.2
+- 1.6.6-linux-amd64.3
+- 1.6.6-linux-amd64.4
+- 1.6.6-linux-amd64.5
+- 1.6.6-linux-amd64.6
+- 1.6.6-linux-amd64.7
+- 1.6.6.1
+- 1.6.6.2
+- 1.6.6.3
+- 1.6.6.4
+- 1.6.6.5
+- 1.6.6.6
+- 1.6.6.7

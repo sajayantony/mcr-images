@@ -1,0 +1,21 @@
+---
+title: oss/calico/ctl
+---
+- v3.18.0
+- v3.18.0-linux-amd64
+- v3.18.1
+- v3.18.1-linux-amd64
+- v3.18.2
+- v3.18.2-linux-amd64
+- v3.18.4
+- v3.18.4-linux-amd64
+- v3.19.0
+- v3.19.0-linux-amd64
+- v3.19.1
+- v3.19.1-linux-amd64
+- v3.19.2
+- v3.19.2-linux-amd64
+- v3.19.3
+- v3.19.3-linux-amd64
+- v3.20.0
+- v3.20.0-linux-amd64

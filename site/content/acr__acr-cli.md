@@ -4,10 +4,12 @@ title: acr/acr-cli
 - 0.1
 - 0.2
 - 0.3
+- 0.4
 - linux-0.2
 - linux-232889b
 - linux-7ccdc3e
 - linux-804ba54
+- linux-d191b4b
 - linux-e38f3ec
 - linux-e45d021
 - linux-e666d99

@@ -44,4 +44,7 @@ title: aci/logging-agent-win
 - master_20181023.1
 - master_20181024.1
 - master_20200110.1
+- master_20210323.1
+- master_20210401.1
+- master_20210505.1
 - sakreter-fixingwindowsimage_20180905.1

@@ -87,3 +87,7 @@ title: oss/kubernetes/external-dns
 - v0.7.5-linux-amd64
 - v0.7.6
 - v0.7.6-linux-amd64
+- v0.8.0
+- v0.8.0-linux-amd64
+- v0.9.0
+- v0.9.0-linux-amd64

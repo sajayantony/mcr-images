@@ -3,10 +3,26 @@ title: dotnet/nightly/monitor
 ---
 - 5.0
 - 5.0-alpine
+- 5.0-alpine-amd64
 - 5.0.0
 - 5.0.0-preview.1
 - 5.0.0-preview.1-alpine
 - 5.0.0-preview.2
 - 5.0.0-preview.2-alpine
 - 5.0.0-preview.3
+- 5.0.0-preview.4
+- 5.0.0-preview.4-alpine
+- 5.0.0-preview.4-alpine-amd64
+- 5.0.0-preview.5
+- 5.0.0-preview.5-alpine
+- 5.0.0-preview.5-alpine-amd64
+- 5.0.0-preview.6
+- 5.0.0-preview.6-alpine
+- 5.0.0-preview.6-alpine-amd64
+- 5.0.0-preview.7
+- 5.0.0-preview.7-alpine
+- 5.0.0-preview.7-alpine-amd64
+- 5.0.0-preview.8
+- 5.0.0-preview.8-alpine
+- 5.0.0-preview.8-alpine-amd64
 - latest

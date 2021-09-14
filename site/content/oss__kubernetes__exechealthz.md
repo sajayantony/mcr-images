@@ -13,3 +13,5 @@ title: oss/kubernetes/exechealthz
 - v1.2.0-linux-amd64
 - v1.3.0
 - v1.3.0-linux-amd64
+- v1.3.0-linux-amd64.1
+- v1.3.0.1

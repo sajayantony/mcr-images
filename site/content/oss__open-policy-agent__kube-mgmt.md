@@ -5,6 +5,10 @@ title: oss/open-policy-agent/kube-mgmt
 - 0.1-linux-amd64
 - 0.10
 - 0.10-linux-amd64
+- 0.12
+- 0.12-linux-amd64
+- 0.12.1
+- 0.12.1-linux-amd64
 - 0.2
 - 0.2-linux-amd64
 - 0.3

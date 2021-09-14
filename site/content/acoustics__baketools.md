@@ -13,5 +13,8 @@ title: acoustics/baketools
 - 2.0.143_Linux
 - 2.0_Linux
 - 2.0_Windows
+- 2.1.1_Linux
+- 2.1_Linux
+- 2.2_Linux
 - latest
 - test

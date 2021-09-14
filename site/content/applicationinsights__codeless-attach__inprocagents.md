@@ -1,6 +1,20 @@
 ---
 title: applicationinsights/codeless-attach/inprocagents
 ---
+- 04.20.2021
+- 04.22.2021
+- 04.26.2021
+- 04.27.2021
+- 04.27.2021.2
+- 04.27.2021.new
+- 04.28.2021
+- 04.28.2021.2
+- 04.29.2021
+- 04.29.2021.FINAL
+- 04.29.2021.FINAL.2
+- 05.03.2021
+- 07.02.2021
+- 08.27.2021
 - 2.8.35.appsvc-preview2
 - 2.8.35.appsvc-preview3
 - 2.8.35.preview2
@@ -12,3 +26,5 @@ title: applicationinsights/codeless-attach/inprocagents
 - 2.8.37.appsvc-preview8
 - 2.8.37.appsvc-preview9
 - 2.8.38
+- 2.8.39
+- 4.27.2021

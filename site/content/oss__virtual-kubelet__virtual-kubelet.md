@@ -61,6 +61,14 @@ title: oss/virtual-kubelet/virtual-kubelet
 - 1.3.1-linux-amd64
 - 1.3.2
 - 1.3.2-linux-amd64
+- 1.3.3
+- 1.3.3-linux-amd64
+- 1.3.4
+- 1.3.4-linux-amd64
+- 1.3.5
+- 1.3.5-linux-amd64
+- 1.3.6
+- 1.3.6-linux-amd64
 - latest
 - latest-linux-amd64
 - v0.7.4

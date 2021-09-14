@@ -11,3 +11,11 @@ title: oss/fluxcd/helm-operator
 - 1.0.0-rc8-linux-amd64
 - 1.2.0
 - 1.2.0-linux-amd64
+- 1.2.0-linux-amd64.1
+- 1.2.0-linux-amd64.2
+- 1.2.0.1
+- 1.2.0.2
+- 1.3.0
+- 1.3.0-linux-amd64
+- 1.4.0
+- 1.4.0-linux-amd64

@@ -1,0 +1,4 @@
+---
+title: opencravat
+---
+- latest

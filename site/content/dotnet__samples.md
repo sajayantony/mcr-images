@@ -10,6 +10,7 @@ title: dotnet/samples
 - aspnetapp-nanoserver-2004
 - aspnetapp-nanoserver-2009
 - aspnetapp-nanoserver-20H2
+- aspnetapp-nanoserver-ltsc2022
 - dotnetapp
 - dotnetapp-buster-slim-amd64
 - dotnetapp-buster-slim-arm32v7
@@ -19,4 +20,5 @@ title: dotnet/samples
 - dotnetapp-nanoserver-2004
 - dotnetapp-nanoserver-2009
 - dotnetapp-nanoserver-20H2
+- dotnetapp-nanoserver-ltsc2022
 - latest

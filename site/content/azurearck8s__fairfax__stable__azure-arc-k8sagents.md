@@ -4,3 +4,10 @@ title: azurearck8s/fairfax/stable/azure-arc-k8sagents
 - 0.2.23
 - 0.2.27
 - 0.2.28
+- 0.2.43
+- 0.2.62
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.8
+- 1.4.0

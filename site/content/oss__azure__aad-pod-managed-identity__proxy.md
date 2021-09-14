@@ -1,0 +1,21 @@
+---
+title: oss/azure/aad-pod-managed-identity/proxy
+---
+- v0.1.0
+- v0.1.0-linux-amd64
+- v0.1.0-linux-amd64.1
+- v0.1.0-linux-amd64.2
+- v0.1.0.1
+- v0.1.0.2
+- v0.2.0
+- v0.2.0-linux-amd64
+- v0.2.0-linux-amd64.1
+- v0.2.0-linux-amd64.2
+- v0.2.0.1
+- v0.2.0.2
+- v0.3.0
+- v0.3.0-linux-amd64
+- v0.3.0-linux-amd64.1
+- v0.3.0-linux-amd64.2
+- v0.3.0.1
+- v0.3.0.2

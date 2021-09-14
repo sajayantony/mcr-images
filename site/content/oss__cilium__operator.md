@@ -1,0 +1,17 @@
+---
+title: oss/cilium/operator
+---
+- 1.10.0
+- 1.10.0-linux-amd64
+- 1.10.1
+- 1.10.1-linux-amd64
+- 1.10.2
+- 1.10.2-linux-amd64
+- 1.10.3
+- 1.10.3-linux-amd64
+- 1.10.4
+- 1.10.4-linux-amd64
+- 1.9.10
+- 1.9.10-linux-amd64
+- v1.9.9
+- v1.9.9-linux-amd64

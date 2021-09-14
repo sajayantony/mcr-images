@@ -27,6 +27,10 @@ title: oss/kubernetes-csi/csi-snapshotter
 - v2.1.2-linux-amd64
 - v2.1.3
 - v2.1.3-linux-amd64
+- v2.1.4
+- v2.1.4-linux-amd64
+- v2.1.5
+- v2.1.5-linux-amd64
 - v3.0.0
 - v3.0.0-linux-amd64
 - v3.0.1
@@ -37,3 +41,11 @@ title: oss/kubernetes-csi/csi-snapshotter
 - v3.0.3-linux-amd64
 - v4.0.0
 - v4.0.0-linux-amd64
+- v4.1.0
+- v4.1.0-linux-amd64
+- v4.1.1
+- v4.1.1-linux-amd64
+- v4.2.0
+- v4.2.0-linux-amd64
+- v4.2.1
+- v4.2.1-linux-amd64

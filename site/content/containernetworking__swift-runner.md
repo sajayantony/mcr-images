@@ -10,6 +10,13 @@ title: containernetworking/swift-runner
 - 20201221-1
 - 20201222-1
 - 20201223-1
+- 20210315
+- 20210318
+- 20210419
+- 20210420
+- 20210420.1
+- 20210426
+- 20210426-2
 - latest
 - lbtest
 - mnatrunnertest

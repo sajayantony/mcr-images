@@ -1,10 +1,15 @@
 ---
 title: acr/buildx
 ---
+- 1a6b591
+- 4d15e10
 - 5a2ed1e
 - 5f5b118
 - 6bb571b
 - 783829e
+- 7f5b5e6
+- 8541eb4
+- a0beb8d
 - bd08ebc
 - df16542
 - latest

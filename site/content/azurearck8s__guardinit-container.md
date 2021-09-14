@@ -1,0 +1,29 @@
+---
+title: azurearck8s/guardinit-container
+---
+- 0.0.28-appliance
+- 0.0.30-appliance
+- 0.0.31-appliance
+- 0.0.32-appliance
+- 0.1.0-appliance
+- 0.2.1-appliance
+- 0.2.2-appliance
+- 0.2.3-appliance
+- 1.1.0
+- 1.1.0-preview
+- 1.1.1
+- 1.1.1-preview
+- 1.2.0
+- 1.2.0-preview
+- 1.3.2-preview
+- 1.3.4-preview
+- 1.3.5
+- 1.3.5-preview
+- 1.3.6
+- 1.3.6-preview
+- 1.3.7
+- 1.3.7-preview
+- 1.3.8
+- 1.3.8-preview
+- 1.4.0
+- 1.4.0-preview

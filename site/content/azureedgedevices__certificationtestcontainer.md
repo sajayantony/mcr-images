@@ -1,0 +1,24 @@
+---
+title: azureedgedevices/certificationtestcontainer
+---
+- mcr
+- mcr-20210909-1-amd64
+- mcr-20210909-1-arm32v7
+- mcr-20210909-1-arm64v8
+- mcr-amd64
+- mcr-arm32v7
+- mcr-arm64v8
+- v2108
+- v2108-20210909-2-amd64
+- v2108-20210909-2-arm32v7
+- v2108-20210909-2-arm64v8
+- v2108-amd64
+- v2108-arm32v7
+- v2108-arm64v8
+- v2108-trial
+- v2108-trial-20210909-1-amd64
+- v2108-trial-20210909-1-arm32v7
+- v2108-trial-20210909-1-arm64v8
+- v2108-trial-amd64
+- v2108-trial-arm32v7
+- v2108-trial-arm64v8

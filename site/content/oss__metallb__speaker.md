@@ -1,5 +1,11 @@
 ---
 title: oss/metallb/speaker
 ---
+- v0.10.0
+- v0.10.0-linux-amd64
+- v0.10.1
+- v0.10.1-linux-amd64
+- v0.10.2
+- v0.10.2-linux-amd64
 - v0.8.1
 - v0.8.1-linux-amd64

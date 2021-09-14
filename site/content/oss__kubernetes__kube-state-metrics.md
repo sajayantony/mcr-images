@@ -53,3 +53,13 @@ title: oss/kubernetes/kube-state-metrics
 - v1.9.6-linux-amd64
 - v1.9.7
 - v1.9.7-linux-amd64
+- v1.9.8
+- v1.9.8-linux-amd64
+- v2.0.0
+- v2.0.0-linux-amd64
+- v2.1.0
+- v2.1.0-linux-amd64
+- v2.1.1
+- v2.1.1-linux-amd64
+- v2.2.0
+- v2.2.0-linux-amd64

@@ -4,4 +4,14 @@ title: azure-cognitive-services/textanalytics/keyphrase
 - 1.1.012830001-amd64
 - 1.1.012840001-amd64
 - 1.1.013570001-amd64
+- 1.1.015230001-onprem-amd64
+- 1.1.015510001-onprem-amd64
+- 1.1.015870001-onprem-amd64
+- 1.1.016720002-onprem-amd64
+- 20210601-cjk
+- 20210601-latin
+- 3.0.016130005-onprem-amd64
+- 3.0.016360003-onprem-amd64
+- 3.0.016760004-onprem-amd64
+- 3.0.016900001-onprem-amd64
 - latest

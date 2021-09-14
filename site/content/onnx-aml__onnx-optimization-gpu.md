@@ -8,3 +8,4 @@ title: onnx-aml/onnx-optimization-gpu
 - ort-1.5.1
 - ort-1.5.2
 - ort-1.6.0
+- ort-1.7.1

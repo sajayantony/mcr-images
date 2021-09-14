@@ -20,4 +20,6 @@ title: azureml/dependency-unpacker
 - 20201114
 - 20201116
 - 20201117
+- 20210625
+- 20210714
 - latest

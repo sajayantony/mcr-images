@@ -1,0 +1,11 @@
+---
+title: oss/fluent/fluentd-kubernetes-daemonset-azureblob
+---
+- v1.12.4
+- v1.12.4-linux-amd64
+- v1.12.4-linux-amd64.1
+- v1.12.4-linux-amd64.2
+- v1.12.4-linux-amd64.3
+- v1.12.4.1
+- v1.12.4.2
+- v1.12.4.3

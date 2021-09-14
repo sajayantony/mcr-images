@@ -27,7 +27,9 @@ title: acr/acb-docker-cli
 - linux-4801693
 - linux-4d7a916
 - linux-4d8dcc7
+- linux-524a80c
 - linux-54540b5
+- linux-556cdd8
 - linux-58c6a4e
 - linux-627fa8d
 - linux-662c4f8
@@ -39,6 +41,7 @@ title: acr/acb-docker-cli
 - linux-84b8d72
 - linux-92f77b6
 - linux-930230c
+- linux-948fd6b
 - linux-9852055
 - linux-9ca0015
 - linux-a1bf5f1
@@ -55,8 +58,10 @@ title: acr/acb-docker-cli
 - linux-d4ef773
 - linux-d555588
 - linux-da3efc5
+- linux-deb93c1
 - linux-e1c4339
 - linux-e2243b5
+- linux-e2cedca
 - linux-e41e165
 - linux-edf9b3e
 - linux-ee827fb
@@ -71,6 +76,7 @@ title: acr/acb-docker-cli
 - linux-teleport-4de37a1
 - linux-teleport-5e85602
 - linux-teleport-77630e2
+- linux-teleport-82ad1e2
 - linux-teleport-c7577af
 - linux-teleport-ccb75b8
 - linux-teleport-dbed4f1
@@ -116,6 +122,8 @@ title: acr/acb-docker-cli
 - windowsservercore-2004-3f9c5ef
 - windowsservercore-2004-4801693
 - windowsservercore-2004-4d7a916
+- windowsservercore-2004-524a80c
+- windowsservercore-2004-556cdd8
 - windowsservercore-2004-627fa8d
 - windowsservercore-2004-662c4f8
 - windowsservercore-2004-76818b5
@@ -124,7 +132,9 @@ title: acr/acb-docker-cli
 - windowsservercore-2004-9852055
 - windowsservercore-2004-a3e1dcf
 - windowsservercore-2004-bd10f4e
+- windowsservercore-2004-deb93c1
 - windowsservercore-2004-e1c4339
+- windowsservercore-2004-e2cedca
 - windowsservercore-2004-faf0c23
 - windowsservercore-2019-10eb20e
 - windowsservercore-2019-1fdeb70

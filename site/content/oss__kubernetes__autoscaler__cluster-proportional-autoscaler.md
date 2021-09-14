@@ -49,5 +49,15 @@ title: oss/kubernetes/autoscaler/cluster-proportional-autoscaler
 - 1.7.1-hotfix.20200403
 - 1.7.1-hotfix.20200403-linux-amd64
 - 1.7.1-linux-amd64
+- 1.8.0
+- 1.8.0-linux-amd64
 - 1.8.1
 - 1.8.1-linux-amd64
+- 1.8.2
+- 1.8.2-linux-amd64
+- 1.8.3
+- 1.8.3-linux-amd64
+- 1.8.4
+- 1.8.4-linux-amd64
+- 1.8.5
+- 1.8.5-linux-amd64

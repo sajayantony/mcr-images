@@ -1,6 +1,7 @@
 ---
 title: containernetworking/azure-npm
 ---
+- latest
 - v1.0.13
 - v1.0.18
 - v1.0.23
@@ -655,3 +656,29 @@ title: containernetworking/azure-npm
 - v1.2.1-8-g400dd65-test
 - v1.2.1-test
 - v1.2.2
+- v1.2.2_hotfix
+- v1.2.3
+- v1.2.3-3-g899c3a3
+- v1.2.4
+- v1.2.5
+- v1.2.5_hotfix
+- v1.2.6
+- v1.2.7
+- v1.2.8
+- v1.2.8-19-g6e310c9
+- v1.2.9
+- v1.3.0
+- v1.3.1
+- v1.3.2
+- v1.3.3
+- v1.4.0
+- v1.4.1
+- v1.4.11
+- v1.4.2
+- v1.4.3
+- v1.4.4
+- v1.4.5
+- v1.4.6
+- v1.4.7
+- v1.4.8
+- v1.4.9

@@ -5,4 +5,6 @@ title: azureml/aml-triton
 - 20201202.v1
 - 20201209.v1
 - 20201221.v1
+- 20210402.v1
+- 20210811.v1
 - latest

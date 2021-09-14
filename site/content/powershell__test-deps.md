@@ -15,6 +15,7 @@ title: powershell/test-deps
 - debian-stretch-slim
 - fedora-28
 - fedora-30
+- fedora-32
 - lts-alpine-3.10
 - lts-alpine-3.8
 - lts-alpine-3.9
@@ -49,6 +50,7 @@ title: powershell/test-deps
 - preview-fedora-29
 - preview-fedora-30
 - preview-fedora-31
+- preview-fedora-32
 - preview-opensuse-42.3
 - preview-ubuntu-16.04
 - preview-ubuntu-18.04

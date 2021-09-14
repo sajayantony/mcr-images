@@ -36,4 +36,6 @@ title: aci/iptable-rule-injector
 - master_20201012.1
 - master_20201023.1
 - master_20201210.1
+- master_20210323.1
+- master_20210401.1
 - updatesidecars_20200104.1

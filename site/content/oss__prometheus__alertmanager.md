@@ -5,3 +5,11 @@ title: oss/prometheus/alertmanager
 - v0.20.0-linux-amd64
 - v0.21.0
 - v0.21.0-linux-amd64
+- v0.22.0
+- v0.22.0-linux-amd64
+- v0.22.1
+- v0.22.1-linux-amd64
+- v0.22.2
+- v0.22.2-linux-amd64
+- v0.23.0
+- v0.23.0-linux-amd64

@@ -109,6 +109,10 @@ title: aci/azure-cns
 - master_20201023.1
 - master_20201116.1
 - master_20201210.1
+- master_20210323.1
+- master_20210401.1
+- master_20210505.1
+- master_20210625.1
 - sakreter-TestingAKSACILogs_20180830.1
 - updatecni-cns_20201113.2
 - updatesidecars_20200104.1

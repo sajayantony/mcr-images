@@ -21,3 +21,5 @@ title: oss/weaveworks/kured
 - 1.5.1-linux-amd64
 - 1.6.1
 - 1.6.1-linux-amd64
+- 1.7.0
+- 1.7.0-linux-amd64

@@ -13,3 +13,6 @@ title: containernetworking/networkmonitor
 - v0.0.8
 - v1.1.8
 - v1.1.8-alpha
+- v1.1.8_hotfix
+- v1.1.8post1
+- v1.1.8post2

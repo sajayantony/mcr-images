@@ -1,6 +1,12 @@
 ---
 title: azure-cognitive-services/speechservices/custom-text-to-speech
 ---
+- 1.11.0-amd64
+- 1.12.0-amd64
+- 1.13.0-amd64
+- 1.14.0-amd64
+- 1.14.1-amd64
+- 1.15.0-amd64
 - 1.7.0-amd64
 - 1.8.0-amd64
 - 1.9.0-amd64

@@ -9,3 +9,15 @@ title: k8s/csi/blob-csi
 - v0.7.1
 - v0.8.0
 - v0.9.0
+- v1.0.0
+- v1.1.0
+- v1.1.0-linux-amd64
+- v1.1.0-linux-arm64
+- v1.2.0
+- v1.2.0-linux-amd64
+- v1.3.0
+- v1.3.0-linux-amd64
+- v1.4.0
+- v1.4.0-linux-amd64
+- v1.5.0
+- v1.5.0-linux-amd64

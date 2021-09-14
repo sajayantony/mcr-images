@@ -5,6 +5,12 @@ title: azure-storage/azurite
 - 3.1.1-preview
 - 3.1.2-preview
 - 3.10.0
+- 3.11.0
+- 3.12.0
+- 3.13.0
+- 3.13.1
+- 3.14.0
+- 3.14.2
 - 3.2.0-preview
 - 3.3.0-preview
 - 3.4.0

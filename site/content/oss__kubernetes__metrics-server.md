@@ -23,6 +23,14 @@ title: oss/kubernetes/metrics-server
 - v0.3.5-linux-amd64
 - v0.3.5_v0.0.5
 - v0.3.5_v0.0.5-linux-amd64
+- v0.3.5_v0.0.5-linux-amd64.1
+- v0.3.5_v0.0.5-linux-amd64.2
+- v0.3.5_v0.0.5-linux-amd64.3
+- v0.3.5_v0.0.5-linux-amd64.4
+- v0.3.5_v0.0.5.1
+- v0.3.5_v0.0.5.2
+- v0.3.5_v0.0.5.3
+- v0.3.5_v0.0.5.4
 - v0.3.6
 - v0.3.6-linux-amd64
 - v0.3.7
@@ -31,3 +39,11 @@ title: oss/kubernetes/metrics-server
 - v0.4.0-linux-amd64
 - v0.4.1
 - v0.4.1-linux-amd64
+- v0.4.2
+- v0.4.2-linux-amd64
+- v0.4.3
+- v0.4.3-linux-amd64
+- v0.4.4
+- v0.4.4-linux-amd64
+- v0.5.0
+- v0.5.0-linux-amd64

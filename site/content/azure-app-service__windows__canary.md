@@ -5,3 +5,8 @@ title: azure-app-service/windows/canary
 - 2.0-nanoserver-1809
 - 2.1-nanoserver-1809
 - 3.1-nanoserver-20H2
+- 5.0
+- 5.0-nanoserver
+- 5.0-nanoserver-1809
+- 5.0-nanoserver-20H2
+- latest

@@ -1,4 +1,12 @@
 ---
 title: cosmosdb/linux/azure-cosmos-emulator
 ---
+- 2.11.11-5e1f77c6
+- 2.11.11-787c2a71
+- 2.11.12-efd4ee75
+- 2.11.13-1ef6349a
+- 2.11.13-36cf4abc
+- 2.11.13-a2eeffac
+- 2.11.13-c5c131e3
+- 2.11.13-sas
 - latest

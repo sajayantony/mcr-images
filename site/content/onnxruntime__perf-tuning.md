@@ -7,5 +7,7 @@ title: onnxruntime/perf-tuning
 - ort1.3.0
 - ort1.4
 - ort1.6
+- ort1.7
+- ort1.8
 - rel-1.4
 - security-test

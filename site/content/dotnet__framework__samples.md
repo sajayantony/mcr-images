@@ -11,6 +11,7 @@ title: dotnet/framework/samples
 - aspnetapp-windowsservercore-20H2
 - aspnetapp-windowsservercore-ltsc2016
 - aspnetapp-windowsservercore-ltsc2019
+- aspnetapp-windowsservercore-ltsc2022
 - dotnetapp
 - dotnetapp-windowsservercore-1709
 - dotnetapp-windowsservercore-1803
@@ -21,6 +22,7 @@ title: dotnet/framework/samples
 - dotnetapp-windowsservercore-20H2
 - dotnetapp-windowsservercore-ltsc2016
 - dotnetapp-windowsservercore-ltsc2019
+- dotnetapp-windowsservercore-ltsc2022
 - latest
 - wcfclient
 - wcfclient-windowsservercore-1709
@@ -32,6 +34,7 @@ title: dotnet/framework/samples
 - wcfclient-windowsservercore-20H2
 - wcfclient-windowsservercore-ltsc2016
 - wcfclient-windowsservercore-ltsc2019
+- wcfclient-windowsservercore-ltsc2022
 - wcfservice
 - wcfservice-windowsservercore-1709
 - wcfservice-windowsservercore-1803
@@ -42,3 +45,4 @@ title: dotnet/framework/samples
 - wcfservice-windowsservercore-20H2
 - wcfservice-windowsservercore-ltsc2016
 - wcfservice-windowsservercore-ltsc2019
+- wcfservice-windowsservercore-ltsc2022

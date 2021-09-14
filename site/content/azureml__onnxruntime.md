@@ -84,3 +84,6 @@ title: azureml/onnxruntime
 - v1.6.0-openvino-2020.4.287-myriad
 - v1.6.0-openvino-2020.4.287-vadm
 - v1.6.0-openvino-2021.1.110
+- v1.7.0
+- v1.7.0-cuda10.2-cudnn8
+- v1.7.0-openvino-2021.2.200

@@ -7,6 +7,8 @@ title: azure-batch/shipyard
 - 3.4.2-singularity-mnt-resource
 - 3.5.0-singularity-mnt
 - 3.5.0-singularity-mnt-resource
+- 3.7.3-singularity-mnt
+- 3.7.3-singularity-mnt-resource
 - 3.8.0-cargo
 - 3.8.0-cargo-windows
 - 3.8.0-cascade-docker

@@ -1,6 +1,8 @@
 ---
 title: blobxfer
 ---
+- 1.10.0
+- 1.10.0-windows
 - 1.8.0
 - 1.8.0-windows
 - 1.9.0
