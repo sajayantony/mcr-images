@@ -3,7 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sajayantony.github.io/acc__samples__attested-tls-inproc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/acc__samples__attested-tls-outproc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/acc__samples__helloworld/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/acc__samples__layered-attested-tls-outproc/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/aci__atlas-mount-azure-file-volume/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aci__atlas-mount-resolv-conf/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aci__atlas-mount-secrets-volume/</loc>
   </url>
   
   <url>
@@ -91,6 +115,14 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/acr__connected-registry/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/acr__connected-registry__chart/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/acr__curl/</loc>
   </url>
   
@@ -147,7 +179,131 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/aks__acc__sgx-plugin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__acc__sgx-webhook/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/aks__canipull/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__command__aks-command/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__command__init/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__command__runtime/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-docker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-builder/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-builder-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-runtime/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-runtime-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-runtime-nettools/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-runtime-nettools-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-runtime-nginx/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-runtime-nginx-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-runtime-openssh/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-runtime-openssh-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-runtime-openvpn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-runtime-openvpn-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-runtime-python3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-runtime-python3-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-runtime-static/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__base-os-runtime-static-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__build-downloader/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__kube-cleanup-operator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__ubuntu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__ubuntu-python/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__devinfra__unittest/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__e2e__bloomberg-goldpinger/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__e2e__k8s-agnhost/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__e2e__library-busybox/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__e2e__python-alpine/</loc>
   </url>
   
   <url>
@@ -155,7 +311,19 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/aks__hcp__addon-token-adapter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__hcp__addon-token-reconciler/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/aks__hcp__admissionsenforcer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__hcp__aks-kube-addon-manager/</loc>
   </url>
   
   <url>
@@ -171,11 +339,19 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/aks__hcp__ccp-initializer/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/aks__hcp__ccp-kube-controller-manager-init/</loc>
   </url>
   
   <url>
     <loc>https://sajayantony.github.io/aks__hcp__ccp-webhook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__hcp__cp-remediator/</loc>
   </url>
   
   <url>
@@ -215,7 +391,15 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/aks__hcp__gitsrv/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/aks__hcp__guard/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__hcp__guard-k8s-leader-elector/</loc>
   </url>
   
   <url>
@@ -239,11 +423,27 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/aks__hcp__private-connect-balancer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__hcp__private-connect-initializer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__hcp__private-connect-router/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/aks__hcp__prom-to-log/</loc>
   </url>
   
   <url>
     <loc>https://sajayantony.github.io/aks__hcp__prom__statsd-exporter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/aks__hcp__telemetry-exporter/</loc>
   </url>
   
   <url>
@@ -272,6 +472,18 @@
   
   <url>
     <loc>https://sajayantony.github.io/aks__samples__voting__storage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/applicationinsights__auto-instrumentation__dotnet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/applicationinsights__auto-instrumentation__java/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/applicationinsights__auto-instrumentation__nodejs/</loc>
   </url>
   
   <url>
@@ -327,6 +539,10 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/appsvc__linuxcanary-runtime/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/appsvc__middleware/</loc>
   </url>
   
@@ -359,6 +575,14 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/appsvc__swiftdummy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/appsvc__vnetproxy/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/appsvc__wordpress-alpine-php/</loc>
   </url>
   
@@ -372,6 +596,18 @@
   
   <url>
     <loc>https://sajayantony.github.io/arcdata__arc-controller/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/arcdata__arc-controller-db/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/arcdata__arc-ha-operator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/arcdata__arc-ha-supervisor/</loc>
   </url>
   
   <url>
@@ -423,7 +659,15 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/arcdata__arcdataservices-extension/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/arcdata__azdata/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/arcdata__mssql-ha-operator/</loc>
   </url>
   
   <url>
@@ -432,6 +676,14 @@
   
   <url>
     <loc>https://sajayantony.github.io/ascforiot__edgehub/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/ava-utilities__avaextension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/ava-utilities__rtspsim-live555/</loc>
   </url>
   
   <url>
@@ -468,6 +720,10 @@
   
   <url>
     <loc>https://sajayantony.github.io/azure-app-service__windows__canary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azure-app-service__windows__parkingpage/</loc>
   </url>
   
   <url>
@@ -515,6 +771,34 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azure-cognitive-services__form-recognizer__businesscard/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azure-cognitive-services__form-recognizer__custom-api/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azure-cognitive-services__form-recognizer__custom-supervised/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azure-cognitive-services__form-recognizer__id-document/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azure-cognitive-services__form-recognizer__invoice/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azure-cognitive-services__form-recognizer__layout/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azure-cognitive-services__form-recognizer__receipt/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azure-cognitive-services__language__luis/</loc>
   </url>
   
@@ -547,6 +831,10 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azure-cognitive-services__textanalytics__healthcare/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azure-cognitive-services__textanalytics__keyphrase/</loc>
   </url>
   
@@ -556,6 +844,10 @@
   
   <url>
     <loc>https://sajayantony.github.io/azure-cognitive-services__textanalytics__sentiment/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azure-cognitive-services__translator__text-translation/</loc>
   </url>
   
   <url>
@@ -575,6 +867,10 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azure-data__cli/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azure-event-grid__iotedge/</loc>
   </url>
   
@@ -588,6 +884,10 @@
   
   <url>
     <loc>https://sajayantony.github.io/azure-functions__dotnet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azure-functions__dotnet-isolated/</loc>
   </url>
   
   <url>
@@ -647,6 +947,10 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azure-policy__charts__policy-k8s-arc-extension-preview/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azure-policy__policy-kubernetes-addon/</loc>
   </url>
   
@@ -660,6 +964,10 @@
   
   <url>
     <loc>https://sajayantony.github.io/azure-powershell/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azure-sentinel__solutions__sapcon/</loc>
   </url>
   
   <url>
@@ -687,11 +995,23 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azurearck8s__agent-update-job/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azurearck8s__aks__stable__config-agent/</loc>
   </url>
   
   <url>
     <loc>https://sajayantony.github.io/azurearck8s__aks__stable__configoperator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__aks__stable__extensionoperator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__appliance-connect-agent/</loc>
   </url>
   
   <url>
@@ -712,6 +1032,10 @@
   
   <url>
     <loc>https://sajayantony.github.io/azurearck8s__batch1__preview__azure-arc-k8sagents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__batch1__preview__azure-arc-monitoring/</loc>
   </url>
   
   <url>
@@ -771,7 +1095,19 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azurearck8s__batch1__stable__appliance__azure-arc-k8sagents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__batch1__stable__appliance__azure-arc-monitoring/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azurearck8s__batch1__stable__azure-arc-k8sagents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__batch1__stable__azure-arc-monitoring/</loc>
   </url>
   
   <url>
@@ -823,6 +1159,22 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azurearck8s__batch2__preview__azure-arc-k8sagents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__batch2__preview__azure-arc-monitoring/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__batch2__stable__azure-arc-k8sagents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__batch2__stable__azure-arc-monitoring/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azurearck8s__canary__stable__agent-update-job/</loc>
   </url>
   
@@ -831,7 +1183,19 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azurearck8s__canary__stable__appliance__azure-arc-k8sagents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__canary__stable__appliance__azure-arc-monitoring/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azurearck8s__canary__stable__azure-arc-k8sagents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__canary__stable__azure-arc-monitoring/</loc>
   </url>
   
   <url>
@@ -883,6 +1247,38 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azurearck8s__cluster-identity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__cluster-metadata-operator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__clusterconnect-agent/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__clusterconnectservice-operator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__config-agent/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__configoperator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__connect-agent/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__extensionoperator/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azurearck8s__fairfax__stable__agent-update-job/</loc>
   </url>
   
@@ -892,6 +1288,10 @@
   
   <url>
     <loc>https://sajayantony.github.io/azurearck8s__fairfax__stable__azure-arc-k8sagents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__fairfax__stable__azure-arc-monitoring/</loc>
   </url>
   
   <url>
@@ -939,11 +1339,59 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azurearck8s__fluent-bit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__flux-logs-agent/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__guardcontroller/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__guardinit-container/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__kube-aad-proxy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__metrics-agent/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__prom-to-configdp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__resource-sync/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__westcentralus__stable__azure-arc-k8sagents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azurearck8s__westcentralus__stable__azure-arc-monitoring/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azuredataexplorer__k2bridge/</loc>
   </url>
   
   <url>
     <loc>https://sajayantony.github.io/azuredefender__dev__arc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__dev__audit-logs-enabler/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__dev__pod-collector/</loc>
   </url>
   
   <url>
@@ -955,7 +1403,87 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azuredefender__dev__security-publisher/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azuredefender__stable__arc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__arc-extension-ae/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__arc-extension-canary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__arc-extension-eus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__arc-extension-eus2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__arc-extension-ffx/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__arc-extension-neu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__arc-extension-scus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__arc-extension-sea/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__arc-extension-small-regions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__arc-extension-uks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__arc-extension-wcus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__arc-extension-weu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__arc-extension-wus2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__audit-logs-enabler/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__cluster-state-collector/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__low-level-collector/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__low-level-init/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__old-file-cleaner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__pod-collector/</loc>
   </url>
   
   <url>
@@ -967,7 +1495,35 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azuredefender__stable__security-publisher/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azuredefender__stage__arc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stage__audit-logs-enabler/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stage__cluster-state-collector/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stage__low-level-collector/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stage__low-level-init/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stage__old-file-cleaner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stage__pod-collector/</loc>
   </url>
   
   <url>
@@ -976,6 +1532,10 @@
   
   <url>
     <loc>https://sajayantony.github.io/azuredefender__stage__security-agent__init/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredefender__stage__security-publisher/</loc>
   </url>
   
   <url>
@@ -1011,11 +1571,51 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azuredocs__jenkins/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azuredocs__multicontainerwordpress/</loc>
   </url>
   
   <url>
     <loc>https://sajayantony.github.io/azuredocs__samples-tf-mnist-demo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuredocs__uwsgi-nginx-flask/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureedgedevices__azureearspeechclientmodule/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureedgedevices__azureeyebase/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureedgedevices__azureeyemodule/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureedgedevices__azureeyeonvifmodule/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureedgedevices__azurehcilvaextmodule/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureedgedevices__azureperceptservicesmodule/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureedgedevices__certificationtestcontainer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureedgedevices__devmmclientmodule/</loc>
   </url>
   
   <url>
@@ -1048,6 +1648,10 @@
   
   <url>
     <loc>https://sajayantony.github.io/azureiotedge-hub/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureiotedge-metrics-collector/</loc>
   </url>
   
   <url>
@@ -1092,6 +1696,146 @@
   
   <url>
     <loc>https://sajayantony.github.io/azureml__aml-triton/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__aml-operator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__azure-blob-adapter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__azureml-setup/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__cluster-status-reporter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__fluent-bit-with-kusto/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__gateway/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__identity-controller/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__identity-proxy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__identity-sidecar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__inference-operator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__init-container/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__job-exporter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__kube-util/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__metrics-operator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__node-feature-discovery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__pod-monitor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__relayserver/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__docker__update-ca-cert/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__australiaeast__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__centralus__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__eastus__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__eastus2__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__eastus2euap__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__francecentral__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__koreacentral__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__northcentralus__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__northeurope__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__southcentralus__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__southeastasia__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__uksouth__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__westcentralus__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__westeurope__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__westus__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__amlarc__helmchart__westus2__amlarc-extension/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__azureml-ba/</loc>
   </url>
   
   <url>
@@ -1219,6 +1963,18 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azureml__minimal-ubuntu18.04-py37-cpu-inference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__mlflow-ubuntu18.04-py37-cpu-inference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__model-profiler/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azureml__o16n-base__fpga-ubuntu/</loc>
   </url>
   
@@ -1252,6 +2008,10 @@
   
   <url>
     <loc>https://sajayantony.github.io/azureml__onnxruntime/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__onnxruntime-1.6-ubuntu18.04-py37-cpu-inference/</loc>
   </url>
   
   <url>
@@ -1291,7 +2051,47 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azureml__openmpi4.1.0-cuda11.0.3-cudnn8-ubuntu18.04/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__openmpi4.1.0-cuda11.1-cudnn8-ubuntu18.04/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__pytorch-1.6-ubuntu18.04-py37-cpu-inference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__pytorch-1.7-ubuntu18.04-py37-cpu-inference/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azureml__realtime-fe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__sklearn-0.24.1-ubuntu18.04-py37-cpu-inference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__tensorflow-1.15-ubuntu18.04-py37-cpu-inference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__tensorflow-2.4-ubuntu18.04-py37-cpu-inference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__tensorflow-2.4-ubuntu18.04-py37-cuda11.0.3-gpu-inference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__tritonserver-21.02-py38-inference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__tritonserver-21.06-py38-inference/</loc>
   </url>
   
   <url>
@@ -1311,7 +2111,19 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/azureml__windows-servercore-1809/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azureml__xgboost-0.9-ubuntu18.04-py37-cpu-inference/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/azuremonitor__containerinsights__canary__preview__azuremonitor-containers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuremonitor__containerinsights__canary__stable__azuremonitor-containers/</loc>
   </url>
   
   <url>
@@ -1328,6 +2140,34 @@
   
   <url>
     <loc>https://sajayantony.github.io/azuremonitor__containerinsights__prod1__preview__azuremonitor-containers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuremonitor__containerinsights__prod1__stable__azuremonitor-containers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuremonitor__containerinsights__prod2__preview__azuremonitor-containers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuremonitor__containerinsights__prod2__stable__azuremonitor-containers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuremonitor__containerinsights__prod3__preview__azuremonitor-containers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuremonitor__containerinsights__prod3__stable__azuremonitor-containers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuremonitor__containerinsights__prod4__stable__azuremonitor-containers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/azuremonitor__containerinsights__prod5__stable__azuremonitor-containers/</loc>
   </url>
   
   <url>
@@ -1375,11 +2215,63 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/bonsai__chemicalprocessingdemo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/bonsai__ecosystem__exported__factorylogistics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/bonsai__ecosystem__simpackages__cartpole_csharp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/bonsai__ecosystem__simpackages__cartpole_java/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/bonsai__energymanagementdemo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/bonsai__extruder/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/bonsai__extrudersample/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/bonsai__factorylogisticsdemo/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/bonsai__moabdemo/</loc>
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/bonsai__productdeliverydemo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/bonsai__sc-lpv/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/bonsai__simpletank/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/bonsai__wm-ls-a20/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/bonsai__wm-ls-a21/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/bonsai__wm-ls-b20/</loc>
   </url>
   
   <url>
@@ -1476,6 +2368,26 @@
   
   <url>
     <loc>https://sajayantony.github.io/cstsectools__codeql-container/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/daprio__dapr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/daprio__daprd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/daprio__dashboard/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/daprio__placement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/daprio__sentry/</loc>
   </url>
   
   <url>
@@ -1596,6 +2508,10 @@
   
   <url>
     <loc>https://sajayantony.github.io/dotnet__framework__wcf/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/dotnet__monitor/</loc>
   </url>
   
   <url>
@@ -2015,6 +2931,14 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/k8se__containerapp-controller/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/k8se__containerapp-controller-api/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/k8se__envoy/</loc>
   </url>
   
@@ -2027,7 +2951,15 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/k8se__gocanary/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/k8se__http-scaler/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/k8se__httpleader/</loc>
   </url>
   
   <url>
@@ -2040,6 +2972,18 @@
   
   <url>
     <loc>https://sajayantony.github.io/k8se__metrics-exporter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/k8se__stage1__preview__chart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/k8se__workerapp-controller/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/k8se__workerapp-controller-api/</loc>
   </url>
   
   <url>
@@ -2091,7 +3035,15 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/mcr__hello-world-cus/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/mcr__hello-world-export/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/mcr__hello-world-wus2/</loc>
   </url>
   
   <url>
@@ -2103,7 +3055,15 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/media__video-analyzer/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/mir__fluent-bit-win1809/</loc>
   </url>
   
   <url>
@@ -2115,7 +3075,15 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/mir__mir-diagnostics-win1809/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/mir__mir-imagefetcher/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/mir__mir-imagefetcher-win1809/</loc>
   </url>
   
   <url>
@@ -2123,11 +3091,23 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/mir__mir-mdsd-cert-updater-win1809/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/mir__mir-prom-token-refresher/</loc>
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/mir__mir-prom-token-refresher-win1809/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/mir__mir-storageinitializer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/mir__mir-storageinitializer-win1809/</loc>
   </url>
   
   <url>
@@ -2139,7 +3119,19 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/mir__mir-vmagent-win1809/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/mir__mir-xdsproxyserver/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/mir__mir-xdsproxyserver-win1809/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/mir__prometheus-win1809/</loc>
   </url>
   
   <url>
@@ -2184,6 +3176,10 @@
   
   <url>
     <loc>https://sajayantony.github.io/mslearn__samples__contoso-website/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/mslearn__samples__redis-client/</loc>
   </url>
   
   <url>
@@ -2367,6 +3363,14 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/opencravat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/openjdk__jdk/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/oryx__base/</loc>
   </url>
   
@@ -2459,6 +3463,14 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/oss__azure-samples__azureiot-simulatordeviceprovisioning/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__azure-samples__azureiot-telemetrysimulator/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/oss__azure__aad-pod-identity__demo/</loc>
   </url>
   
@@ -2475,7 +3487,23 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/oss__azure__aad-pod-managed-identity__proxy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__azure__aad-pod-managed-identity__proxy-init/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__azure__aad-pod-managed-identity__webhook/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/oss__azure__azure-monitor-for-sap-solutions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__azure__kms__keyvault/</loc>
   </url>
   
   <url>
@@ -2487,11 +3515,35 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/oss__azure__workload-identity__proxy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__azure__workload-identity__proxy-init/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__azure__workload-identity__webhook/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/oss__bitnami__redis/</loc>
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/oss__bitnami__redis-sentinel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__busybox__busybox/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/oss__calico__cni/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__calico__ctl/</loc>
   </url>
   
   <url>
@@ -2511,6 +3563,14 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/oss__cilium__cilium/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__cilium__operator/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/oss__containous__traefik/</loc>
   </url>
   
@@ -2527,11 +3587,23 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/oss__flannel-io__flannel/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/oss__fluent__fluent-bit/</loc>
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/oss__fluent__fluentd-kubernetes-daemonset-azureblob/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/oss__fluxcd__flux/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__fluxcd__helm-controller/</loc>
   </url>
   
   <url>
@@ -2543,7 +3615,39 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/oss__fluxcd__image-automation-controller/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__fluxcd__image-reflector-controller/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__fluxcd__kustomize-controller/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__fluxcd__notification-controller/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__fluxcd__source-controller/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/oss__intel__intel-vpu-plugin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__kedacore__keda/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__kedacore__keda-metrics-apiserver/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__kontena__kubelet-rubber-stamp/</loc>
   </url>
   
   <url>
@@ -2552,6 +3656,10 @@
   
   <url>
     <loc>https://sajayantony.github.io/oss__kubernetes-csi__azurefile-csi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__kubernetes-csi__blob-csi/</loc>
   </url>
   
   <url>
@@ -2587,6 +3695,10 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/oss__kubernetes-csi__secrets-store__driver-crds/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/oss__kubernetes-csi__snapshot-controller/</loc>
   </url>
   
@@ -2608,6 +3720,18 @@
   
   <url>
     <loc>https://sajayantony.github.io/oss__kubernetes__autoscaler__cluster-proportional-autoscaler/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__kubernetes__autoscaler__vpa-admission-controller/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__kubernetes__autoscaler__vpa-recommender/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__kubernetes__autoscaler__vpa-updater/</loc>
   </url>
   
   <url>
@@ -2648,6 +3772,10 @@
   
   <url>
     <loc>https://sajayantony.github.io/oss__kubernetes__hyperkube/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__kubernetes__hyperkube-amd64/</loc>
   </url>
   
   <url>
@@ -2731,6 +3859,10 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/oss__kubernetes__windows-gmsa-webhook/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/oss__linkerd__cli-bin/</loc>
   </url>
   
@@ -2807,11 +3939,19 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/oss__openservicemesh__init-osm-controller/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/oss__openservicemesh__osm-chart/</loc>
   </url>
   
   <url>
     <loc>https://sajayantony.github.io/oss__openservicemesh__osm-controller/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/oss__openservicemesh__osm-injector/</loc>
   </url>
   
   <url>
@@ -2851,11 +3991,27 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/planetary-computer__gpu-pytorch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/planetary-computer__python/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/planetary-computer__r/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/playfab__multiplayer/</loc>
   </url>
   
   <url>
     <loc>https://sajayantony.github.io/playwright/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/playwright__java/</loc>
   </url>
   
   <url>
@@ -2867,7 +4023,15 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/polygon__image-cleaner-auto-docker/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/polygon__kube-state-metrics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/polygon__kured/</loc>
   </url>
   
   <url>
@@ -2919,6 +4083,10 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/presidio-image-redactor/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/presidio-ocr/</loc>
   </url>
   
@@ -2931,6 +4099,10 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/quantum__iqsharp-azure-notebook/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/quantum__iqsharp-base/</loc>
   </url>
   
@@ -2940,6 +4112,10 @@
   
   <url>
     <loc>https://sajayantony.github.io/quantum__samples/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/restapifuzztesting__agent-utilities/</loc>
   </url>
   
   <url>
@@ -3075,6 +4251,10 @@
   </url>
   
   <url>
+    <loc>https://sajayantony.github.io/vscode__devcontainers__jekyll/</loc>
+  </url>
+  
+  <url>
     <loc>https://sajayantony.github.io/vscode__devcontainers__miniconda/</loc>
   </url>
   
@@ -3140,6 +4320,14 @@
   
   <url>
     <loc>https://sajayantony.github.io/windows__nanoserver__insider/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/windows__server/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sajayantony.github.io/windows__server__insider/</loc>
   </url>
   
   <url>
